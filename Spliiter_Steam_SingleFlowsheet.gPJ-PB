@@ -8,11 +8,14 @@
     <StringProperty name="CreatedBy">sujinl</StringProperty>
     <DateProperty name="CreatedDate">2019-04-10T05:54:24Z</DateProperty>
     <StringProperty name="ModifiedBy">uditg</StringProperty>
-    <DateProperty name="ModifiedDate">2020-11-07T00:40:09Z</DateProperty>
+    <DateProperty name="ModifiedDate">2020-11-20T17:24:02Z</DateProperty>
   </Properties>
+  <SearchableProject name="gML Power Conventional Power Generation"/>
+  <SearchableProject name="gML Power Auxiliary Reporting"/>
   <SearchableProject name="gML Basics"/>
   <SearchableProject name="gML Power Basics"/>
-  <SearchableProject name="gML Power Conventional Power Generation"/>
+  <SearchableProject name="gML Power Auxiliary"/>
+  <SearchableProject name="gML Power Auxiliary Material Definitions"/>
   <SearchableProject name="gML Flow Transportation"/>
   <SearchableProject name="gML Control"/>
   <SearchableProject name="gML Signal"/>
@@ -552,6 +555,216 @@ cz0iMy4yLDUxLjUgMjcuMiwyNy41IDMuMiwzLjUgIiBzdHlsZT0iZmlsbDpub25lO3N0cm9rZToj
 MDg0MjkwO3N0cm9rZS13aWR0aDoxLjU7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVq
 b2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjEwO3N0cm9rZS1vcGFjaXR5OjEiLz4NCiAgICA8
 L2c+DQogIDwvZz4NCjwvc3ZnPg0KDQoNCg==
+]]>
+    </Image>
+    <Image id="-963241190"><![CDATA[PD9ncHJvbXMgcGF0aD0iV0FSTigxKS5XQVJOLmYiPz4NCjxzdmcgeG1sbnM6ZGM9Imh0dHA6Ly9w
+dXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpjYz0iaHR0cDovL2NyZWF0aXZlY29tbW9u
+cy5vcmcvbnMjIiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5
+bnRheC1ucyMiIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zPSJo
+dHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6c29kaXBvZGk9Imh0dHA6Ly9zb2RpcG9k
+aS5zb3VyY2Vmb3JnZS5uZXQvRFREL3NvZGlwb2RpLTAuZHRkIiB4bWxuczppbmtzY2FwZT0iaHR0
+cDovL3d3dy5pbmtzY2FwZS5vcmcvbmFtZXNwYWNlcy9pbmtzY2FwZSIgdmVyc2lvbj0iMS4xIiBp
+ZD0iTGF5ZXJfMSIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0Jv
+eD0iMCAwIDQ4LjAwMDAwMiA0OC4wMDAwMDIiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDQ4
+LjEgNDguMSIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgaW5rc2NhcGU6dmVyc2lvbj0iMC40OC40IHI5
+OTM5IiBzb2RpcG9kaTpkb2NuYW1lPSJjYWxjLnN2ZyI+DQogIDxtZXRhZGF0YSBpZD0ibWV0YWRh
+dGEyOCI+DQogICAgPHJkZjpSREY+DQogICAgICA8Y2M6V29yayByZGY6YWJvdXQ9IiI+DQogICAg
+ICAgIDxkYzpmb3JtYXQ+aW1hZ2Uvc3ZnK3htbDwvZGM6Zm9ybWF0Pg0KICAgICAgICA8ZGM6dHlw
+ZSByZGY6cmVzb3VyY2U9Imh0dHA6Ly9wdXJsLm9yZy9kYy9kY21pdHlwZS9TdGlsbEltYWdlIi8+
+DQogICAgICAgIDxkYzp0aXRsZS8+DQogICAgICA8L2NjOldvcms+DQogICAgPC9yZGY6UkRGPg0K
+ICA8L21ldGFkYXRhPg0KICA8ZGVmcyBpZD0iZGVmczI2Ij4NCiAgICA8c29kaXBvZGk6bmFtZWR2
+aWV3IHNob3dndWlkZXM9InRydWUiIHNob3dncmlkPSJmYWxzZSIgcGFnZWNvbG9yPSIjZmZmZmZm
+IiBvYmplY3R0b2xlcmFuY2U9IjEwIiBpbmtzY2FwZTp6b29tPSI4Ljg5MDYyNTEiIGlua3NjYXBl
+OndpbmRvdy15PSIwIiBpbmtzY2FwZTp3aW5kb3cteD0iMCIgaW5rc2NhcGU6d2luZG93LXdpZHRo
+PSIxMDA2IiBpbmtzY2FwZTp3aW5kb3ctbWF4aW1pemVkPSIwIiBpbmtzY2FwZTp3aW5kb3ctaGVp
+Z2h0PSI3MzYiIGlua3NjYXBlOnBhZ2VzaGFkb3c9IjIiIGlua3NjYXBlOnBhZ2VvcGFjaXR5PSIw
+IiBpbmtzY2FwZTpndWlkZS1iYm94PSJ0cnVlIiBpbmtzY2FwZTpjeT0iMTUuMjQwOTMyIiBpbmtz
+Y2FwZTpjeD0iMTMuNTkzNzc0IiBpbmtzY2FwZTpjdXJyZW50LWxheWVyPSJMYXllcl8xIiBpZD0i
+bmFtZWR2aWV3MjEiIGd1aWRldG9sZXJhbmNlPSIxMCIgZ3JpZHRvbGVyYW5jZT0iMTAiIGZpdC1t
+YXJnaW4tdG9wPSIwIiBmaXQtbWFyZ2luLXJpZ2h0PSIwIiBmaXQtbWFyZ2luLWxlZnQ9IjAiIGZp
+dC1tYXJnaW4tYm90dG9tPSIwIiBib3JkZXJvcGFjaXR5PSIxIiBib3JkZXJjb2xvcj0iIzY2NjY2
+NiI+DQogICAgICA8c29kaXBvZGk6Z3VpZGUgcG9zaXRpb249IjIyLjUwMjAwMiwyMC4zMzQ1Nzgi
+IG9yaWVudGF0aW9uPSIxLDAiIGlkPSJndWlkZTMwMDIiLz4NCiAgICAgIDxzb2RpcG9kaTpndWlk
+ZSBwb3NpdGlvbj0iMTUuNDI5MjA1LDIyLjUwMTk5OSIgb3JpZW50YXRpb249IjAsMSIgaWQ9Imd1
+aWRlMzAwNCIvPg0KICAgIDwvc29kaXBvZGk6bmFtZWR2aWV3Pg0KICA8L2RlZnM+DQogIDxzb2Rp
+cG9kaTpuYW1lZHZpZXcgcGFnZWNvbG9yPSIjZmZmZmZmIiBib3JkZXJjb2xvcj0iIzY2NjY2NiIg
+Ym9yZGVyb3BhY2l0eT0iMSIgb2JqZWN0dG9sZXJhbmNlPSIxMCIgZ3JpZHRvbGVyYW5jZT0iMTAi
+IGd1aWRldG9sZXJhbmNlPSIxMCIgaW5rc2NhcGU6cGFnZW9wYWNpdHk9IjAiIGlua3NjYXBlOnBh
+Z2VzaGFkb3c9IjIiIGlua3NjYXBlOndpbmRvdy13aWR0aD0iOTg0IiBpbmtzY2FwZTp3aW5kb3ct
+aGVpZ2h0PSI3ODAiIGlkPSJuYW1lZHZpZXcyNCIgc2hvd2dyaWQ9ImZhbHNlIiBmaXQtbWFyZ2lu
+LXRvcD0iMCIgZml0LW1hcmdpbi1sZWZ0PSIwIiBmaXQtbWFyZ2luLXJpZ2h0PSIwIiBmaXQtbWFy
+Z2luLWJvdHRvbT0iMCIgaW5rc2NhcGU6em9vbT0iNC45MDY0NDUxIiBpbmtzY2FwZTpjeD0iMjgu
+MzMzOTAxIiBpbmtzY2FwZTpjeT0iMjEuOTExODY2IiBpbmtzY2FwZTp3aW5kb3cteD0iMjc0OSIg
+aW5rc2NhcGU6d2luZG93LXk9IjI3NCIgaW5rc2NhcGU6d2luZG93LW1heGltaXplZD0iMCIgaW5r
+c2NhcGU6Y3VycmVudC1sYXllcj0ibGF5ZXIzIi8+DQogIDxnIGlua3NjYXBlOmdyb3VwbW9kZT0i
+bGF5ZXIiIGlkPSJsYXllcjUiIGlua3NjYXBlOmxhYmVsPSJCYWNrZ3JvdW5kIiBzdHlsZT0iZGlz
+cGxheTpub25lIiBzb2RpcG9kaTppbnNlbnNpdGl2ZT0idHJ1ZSI+DQogICAgPHJlY3Qgc3R5bGU9
+ImZpbGw6I2QyZDJkMjtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6ZXZlbm9kZDtzdHJva2U6bm9u
+ZSIgaWQ9InJlY3QzODg4IiB3aWR0aD0iNzguNDY4MjE2IiBoZWlnaHQ9IjY2LjY0NzAzNCIgeD0i
+LTE0LjA2MzEzNSIgeT0iLTguMDQ4NzI3Ii8+DQogIDwvZz4NCiAgPGcgaW5rc2NhcGU6Z3JvdXBt
+b2RlPSJsYXllciIgaWQ9ImxheWVyMSIgaW5rc2NhcGU6bGFiZWw9IkxlZ2liaWxpdHkiIHNvZGlw
+b2RpOmluc2Vuc2l0aXZlPSJ0cnVlIiBzdHlsZT0iZGlzcGxheTppbmxpbmUiPg0KICAgIDxjaXJj
+bGUgc3R5bGU9ImZpbGw6bm9uZTtzdHJva2U6I2ZmZmZmZjtzdHJva2Utd2lkdGg6NjtzdHJva2Ut
+bGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLW1pdGVybGltaXQ6MTAi
+IHNvZGlwb2RpOmN4PSIyNCIgcj0iMjEiIGN5PSIyNCIgY3g9IjI0IiBzdHJva2UtbWl0ZXJsaW1p
+dD0iMTAiIHNvZGlwb2RpOnJ5PSIyMSIgc29kaXBvZGk6cng9IjIxIiBzb2RpcG9kaTpjeT0iMjQi
+IGlkPSJsZWdpYiIgZD0iTSA0NSwyNCBDIDQ1LDM1LjU5Nzk4IDM1LjU5Nzk4LDQ1IDI0LDQ1IDEy
+LjQwMjAyLDQ1IDMsMzUuNTk3OTggMywyNCAzLDEyLjQwMjAyIDEyLjQwMjAyLDMgMjQsMyAzNS41
+OTc5OCwzIDQ1LDEyLjQwMjAyIDQ1LDI0IHoiLz4NCiAgPC9nPg0KICA8ZyBpbmtzY2FwZTpncm91
+cG1vZGU9ImxheWVyIiBpZD0ibGF5ZXIyIiBpbmtzY2FwZTpsYWJlbD0iRmlsbCIgc29kaXBvZGk6
+aW5zZW5zaXRpdmU9InRydWUiIHN0eWxlPSJkaXNwbGF5OmlubGluZSI+DQogICAgPGNpcmNsZSBz
+dHlsZT0iZmlsbDojNmU2ZTZlO2ZpbGwtb3BhY2l0eToxIiBzb2RpcG9kaTpjeD0iMjQiIHI9IjIx
+IiBjeT0iMjQiIGN4PSIyNCIgc29kaXBvZGk6cnk9IjIxIiBzb2RpcG9kaTpyeD0iMjEiIHNvZGlw
+b2RpOmN5PSIyNCIgaWQ9ImZpbGwxIiBkPSJNIDQ1LDI0IEMgNDUsMzUuNTk3OTggMzUuNTk3OTgs
+NDUgMjQsNDUgMTIuNDAyMDIsNDUgMywzNS41OTc5OCAzLDI0IDMsMTIuNDAyMDIgMTIuNDAyMDIs
+MyAyNCwzIDM1LjU5Nzk4LDMgNDUsMTIuNDAyMDIgNDUsMjQgeiI+DQogICAgICA8YW5pbWF0ZSBh
+dHRyaWJ1dGVOYW1lPSJmaWxsIiB2YWx1ZXM9IiM2ZTZlNmU7IzZlNmU2ZTsjNmU2ZTZlOyM2ZTZl
+NmU7IzZlNmU2ZTsjNmU2ZTZlOyM2ZTZlNmU7IzZlNmU2ZTsjNmU2ZTZlOyM2ZTZlNmU7IzZlNmU2
+ZTsjNmU2ZTZlOyM2ZTZlNmU7IzZlNmU2ZTsjZjFlYTJkOyM2ZTZlNmU7IzZlNmU2ZTsjZjFlYTJk
+OyNkZjIzMGY7IzZlNmU2ZTsjZjFlYTJkOyM2ZTZlNmU7IzZlNmU2ZTsjZjFlYTJkOyNkZjIzMGY7
+IiBkdXI9IjFzIiBmaWxsPSJmcmVlemUiIGJlZ2luPSIwcyIgYXR0cmlidXRlVHlwZT0iWE1MIi8+
+DQogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJmaWxsLW9wYWNpdHkiIHZhbHVlcz0iMTsx
+OzE7MTsxOzE7MTsxOzE7MTsxOzE7MTswLjQ7MTsxOzAuNDsxOzE7MC40OzE7MTswLjQ7MTsxOyIg
+ZHVyPSIxcyIgZmlsbD0iZnJlZXplIiBiZWdpbj0iMHMiIGF0dHJpYnV0ZVR5cGU9IlhNTCIvPg0K
+ICAgIDwvY2lyY2xlPg0KICA8L2c+DQogIDxnIGlua3NjYXBlOmdyb3VwbW9kZT0ibGF5ZXIiIGlk
+PSJsYXllcjMiIGlua3NjYXBlOmxhYmVsPSJEZXRhaWwiIHN0eWxlPSJkaXNwbGF5OmlubGluZSIg
+c29kaXBvZGk6aW5zZW5zaXRpdmU9InRydWUiPg0KICAgIDxnIGlua3NjYXBlOmdyb3VwbW9kZT0i
+bGF5ZXIiIGlkPSJsYXllcjgiIGlua3NjYXBlOmxhYmVsPSJ0ZXh0IDIyIHB0IiBzb2RpcG9kaTpp
+bnNlbnNpdGl2ZT0idHJ1ZSIgc3R5bGU9ImRpc3BsYXk6bm9uZSI+DQogICAgICA8dGV4dCB4bWw6
+c3BhY2U9InByZXNlcnZlIiBzdHlsZT0iZm9udC1zaXplOjIycHg7Zm9udC1zdHlsZTpub3JtYWw7
+Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zdHJldGNoOm5vcm1h
+bDt0ZXh0LWFsaWduOnN0YXJ0O2xpbmUtaGVpZ2h0OjEyNSU7bGV0dGVyLXNwYWNpbmc6MHB4O3dv
+cmQtc3BhY2luZzowcHg7d3JpdGluZy1tb2RlOmxyLXRiO3RleHQtYW5jaG9yOnN0YXJ0O2ZpbGw6
+IzAwMDFmZjtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZTtkaXNwbGF5OmlubGluZTtmb250LWZh
+bWlseTpNaXNvOy1pbmtzY2FwZS1mb250LXNwZWNpZmljYXRpb246TWlzbyIgeD0iNi43NzQ0MDA3
+IiB5PSIzMC45OTQ4NzkiIGlkPSJ0ZXh0MzA5NC0wIiBzb2RpcG9kaTpsaW5lc3BhY2luZz0iMTI1
+JSI+DQogICAgICAgIDx0c3BhbiBzb2RpcG9kaTpyb2xlPSJsaW5lIiBpZD0idHNwYW4zMDk2LTki
+IHg9IjYuNzc0NDAwNyIgeT0iMzAuOTk0ODc5Ij5DQUxDPC90c3Bhbj4NCiAgICAgIDwvdGV4dD4N
+CiAgICA8L2c+DQogICAgPGcgaW5rc2NhcGU6Z3JvdXBtb2RlPSJsYXllciIgaWQ9ImxheWVyNyIg
+aW5rc2NhcGU6bGFiZWw9InRleHQgMjAgcHQiIHN0eWxlPSJkaXNwbGF5Om5vbmUiPg0KICAgICAg
+PHRleHQgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgc3R5bGU9ImZvbnQtc2l6ZToyMHB4O2ZvbnQtc3R5
+bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc3Ry
+ZXRjaDpub3JtYWw7dGV4dC1hbGlnbjpzdGFydDtsaW5lLWhlaWdodDoxMjUlO2xldHRlci1zcGFj
+aW5nOjBweDt3b3JkLXNwYWNpbmc6MHB4O3dyaXRpbmctbW9kZTpsci10Yjt0ZXh0LWFuY2hvcjpz
+dGFydDtmaWxsOiMwMGZmMDA7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmU7ZGlzcGxheTppbmxp
+bmU7Zm9udC1mYW1pbHk6TWlzbzstaW5rc2NhcGUtZm9udC1zcGVjaWZpY2F0aW9uOk1pc28iIHg9
+IjguMzQwMzY0NSIgeT0iMzAuMzU4OTgiIGlkPSJ0ZXh0MzA5NC03IiBzb2RpcG9kaTpsaW5lc3Bh
+Y2luZz0iMTI1JSI+DQogICAgICAgIDx0c3BhbiBzb2RpcG9kaTpyb2xlPSJsaW5lIiBpZD0idHNw
+YW4zMDk2LTQiIHg9IjguMzQwMzY0NSIgeT0iMzAuMzU4OTgiPkNBTEM8L3RzcGFuPg0KICAgICAg
+PC90ZXh0Pg0KICAgIDwvZz4NCiAgICA8ZyBpbmtzY2FwZTpncm91cG1vZGU9ImxheWVyIiBpZD0i
+bGF5ZXI2IiBpbmtzY2FwZTpsYWJlbD0idGV4dCAxOCBwdCIgc29kaXBvZGk6aW5zZW5zaXRpdmU9
+InRydWUiIHN0eWxlPSJkaXNwbGF5Om5vbmUiPg0KICAgICAgPHRleHQgeG1sOnNwYWNlPSJwcmVz
+ZXJ2ZSIgc3R5bGU9ImZvbnQtc2l6ZToxOHB4O2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFu
+dDpub3JtYWw7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc3RyZXRjaDpub3JtYWw7dGV4dC1hbGln
+bjpzdGFydDtsaW5lLWhlaWdodDoxMjUlO2xldHRlci1zcGFjaW5nOjBweDt3b3JkLXNwYWNpbmc6
+MHB4O3dyaXRpbmctbW9kZTpsci10Yjt0ZXh0LWFuY2hvcjpzdGFydDtmaWxsOiNmZjAwMDA7Zmls
+bC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmU7ZGlzcGxheTppbmxpbmU7Zm9udC1mYW1pbHk6TWlzbzst
+aW5rc2NhcGUtZm9udC1zcGVjaWZpY2F0aW9uOk1pc28iIHg9IjkuOTA2MzI4MiIgeT0iMjkuNzIz
+MDgzIiBpZD0idGV4dDMwOTQtMSIgc29kaXBvZGk6bGluZXNwYWNpbmc9IjEyNSUiPg0KICAgICAg
+ICA8dHNwYW4gc29kaXBvZGk6cm9sZT0ibGluZSIgaWQ9InRzcGFuMzA5NiIgeD0iOS45MDYzMjgy
+IiB5PSIyOS43MjMwODMiPkNBTEM8L3RzcGFuPg0KICAgICAgPC90ZXh0Pg0KICAgIDwvZz4NCiAg
+ICA8ZyBzdHlsZT0iZm9udC1zaXplOjIwcHg7Zm9udC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50
+Om5vcm1hbDtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zdHJldGNoOm5vcm1hbDt0ZXh0LWFsaWdu
+OnN0YXJ0O2xpbmUtaGVpZ2h0OjEyNSU7bGV0dGVyLXNwYWNpbmc6MHB4O3dvcmQtc3BhY2luZzow
+cHg7d3JpdGluZy1tb2RlOmxyLXRiO3RleHQtYW5jaG9yOnN0YXJ0O2ZpbGw6I2QyZDJkMjtmaWxs
+LW9wYWNpdHk6MTtzdHJva2U6bm9uZTtkaXNwbGF5OmlubGluZTtmb250LWZhbWlseTpNaXNvOy1p
+bmtzY2FwZS1mb250LXNwZWNpZmljYXRpb246TWlzbyIgaWQ9InRleHQzMDk0LTctMSIgdHJhbnNm
+b3JtQmVoYXZpb3VyPSJwaW5uZWQiPg0KICAgICAgPHBhdGggZD0ibSAxMS43MjAzMjEsMzAuMzM4
+OTggYyAwLjY3NjIzNywwLjE3MzMzMSAxLjMyMzcyOCwwLjEzMTY2NSAxLjk0MjQ3NSwtMC4xMjQ5
+OTkgMC42MTg3MzYsLTAuMjU2NjYzIDEuMTExMjI5LC0wLjY4ODMyMyAxLjQ3NzQ4MSwtMS4yOTQ5
+ODIgMC4wNzg3NCwtMC4xNTY2NjQgMC4wOTYyNCwtMC4zMTgzMjkgMC4wNTI1LC0wLjQ4NDk5NSAt
+MC4wNDM3NiwtMC4xNjY2NjIgLTAuMTQxMjU1LC0wLjI5ODMyNyAtMC4yOTI0OTYsLTAuMzk0OTk0
+IC0wLjE1NjY3MiwtMC4wNzg3NSAtMC4zMTgzMzYsLTAuMDk2MjUgLTAuNDg0OTk0LC0wLjA1MjUg
+LTAuMTY2NjcxLDAuMDQzNzUgLTAuMjk4MzM1LDAuMTQxMjUgLTAuMzk0OTk1LDAuMjkyNDk2IC0w
+LjIwODc1MywwLjM0NDE2NCAtMC40OTEyNDksMC41OTA4MjcgLTAuODQ3NDg5LDAuNzM5OTkgLTAu
+MzU2MjUsMC4xNDkxNjcgLTAuNzMzNzQ1LDAuMTc1ODMzIC0xLjEzMjQ4NSwwLjA4IC0wLjM4NjY2
+NSwtMC4xMDgzMyAtMC42OTgzMjgsLTAuMzE2NjYxIC0wLjkzNDk4OCwtMC42MjQ5OTIgLTAuMjM2
+NjY3LC0wLjMwODMyNyAtMC4zNTgzMzIsLTAuNjY2NjU2IC0wLjM2NDk5NSwtMS4wNzQ5ODYgbCAw
+LC02Ljc5OTkxMiBjIDAuMDA2NywtMC40MDgzMTggMC4xMjgzMjksLTAuNzY2NjQ2IDAuMzY0OTk1
+LC0xLjA3NDk4NiAwLjIzNjY2LC0wLjMwODMxOSAwLjU0ODMyMywtMC41MTY2NDkgMC45MzQ5ODgs
+LTAuNjI0OTkyIDAuMzk4NzQsLTAuMDk1ODIgMC43NzYyMzUsLTAuMDY5MTYgMS4xMzI0ODUsMC4w
+OCAwLjM1NjI0LDAuMTQ5MTc2IDAuNjM4NzM2LDAuMzk1ODM5IDAuODQ3NDg5LDAuNzM5OTkgMC4w
+OTY2NiwwLjE1MjUwOSAwLjIyODMyNSwwLjI1MjUwNyAwLjM5NDk5NSwwLjI5OTk5NiAwLjE2NjY1
+OSwwLjA0NzUxIDAuMzI4MzIzLDAuMDI3NTEgMC40ODQ5OTQsLTAuMDYgMC4xNTEyNDEsLTAuMDk2
+NjUgMC4yNDg3NCwtMC4yMjgzMiAwLjI5MjQ5NiwtMC4zOTQ5OTUgMC4wNDM3NCwtMC4xNjY2NTMg
+MC4wMjYyNCwtMC4zMjgzMTggLTAuMDUyNSwtMC40ODQ5OTQgLTAuMzY2MjUyLC0wLjU5Nzg5NyAt
+MC44NTg3NDUsLTEuMDI3MDU4IC0xLjQ3NzQ4MSwtMS4yODc0ODMgLTAuNjE4NzQ3LC0wLjI2MDQw
+MSAtMS4yNjYyMzgsLTAuMzA0NTY3IC0xLjk0MjQ3NSwtMC4xMzI0OTggLTAuNjgwNDExLDAuMTkz
+NzU5IC0xLjIyNDU3LDAuNTU2MjU0IC0xLjYzMjQ3OSwxLjA4NzQ4NiAtMC40MDc5MTM0LDAuNTMx
+MjU0IC0wLjYxNzA3NywxLjE0ODc0NSAtMC42Mjc0OTIsMS44NTI0NzYgbCAwLDYuNzk5OTEyIGMg
+MC4wMTA0MTUsMC43MDM3NDMgMC4yMTk1NzkxLDEuMzIxMjM0IDAuNjI3NDkyLDEuODUyNDc2IDAu
+NDA3OTA5LDAuNTMxMjQ0IDAuOTUyMDY4LDAuODkzNzM5IDEuNjMyNDc5LDEuMDg3NDg2IHoiIGlk
+PSJwYXRoMzc5NyIgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIvPg0KICAgICAgPHBh
+dGggZD0ibSAyMC45NzU2MTMsMTguMDM5MTM5IGMgLTAuMDQzMzQsLTAuMTQyNDg2IC0wLjEyMTY2
+OSwtMC4yNTc0ODUgLTAuMjM0OTk3LC0wLjM0NDk5NiAtMC4xMTMzMzYsLTAuMDg3NDkgLTAuMjQx
+NjY4LC0wLjEzMjQ4NiAtMC4zODQ5OTUsLTAuMTM0OTk4IC0wLjE0MzMzNiwwLjAwMjUgLTAuMjcx
+NjY3LDAuMDQ3NTEgLTAuMzg0OTk1LDAuMTM0OTk5IC0wLjExMzMzNiwwLjA4NzUxIC0wLjE5MTY2
+OCwwLjIwMjUwOSAtMC4yMzQ5OTcsMC4zNDQ5OTUgbCAtMy4xOTk5NTgsMTEuNTk5ODUgYyAtMC4w
+NDY2NywwLjE3NDk5OSAtMC4wMjgzMywwLjMzNDk5NiAwLjA1NSwwLjQ3OTk5NCAwLjA4MzMzLDAu
+MTQ0OTk5IDAuMjExNjYzLDAuMjQ0OTk3IDAuMzg0OTk1LDAuMjk5OTk2IDAuMTg0NTgsMC4wNDY2
+NyAwLjM1MDQxMSwwLjAyODMzIDAuNDk3NDk0LC0wLjA1NSAwLjE0NzA4LC0wLjA4MzMzIDAuMjQ3
+OTEyLC0wLjIxMTY2NCAwLjMwMjQ5NiwtMC4zODQ5OTUgMC4wMDI5LC0wLjAxMjUgMC4wNjIwOCwt
+MC4yMzI0OTYgMC4xNzc0OTcsLTAuNjU5OTkxIDAuMTE1NDE0LC0wLjQyNzQ5NCAwLjI2OTU3OCwt
+MC45ODc0ODYgMC40NjI0OTQsLTEuNjc5OTc5IGwgMy44Nzk5NSwwIGMgMC4xOTI5MDgsMC42OTI0
+OTMgMC4zNDcwNzIsMS4yNTI0ODYgMC40NjI0OTQsMS42Nzk5NzkgMC4xMTU0MDksMC40Mjc0OTUg
+MC4xNzQ1NzUsMC42NDc0OTIgMC4xNzc0OTgsMC42NTk5OTEgMC4wNTQ5OSwwLjE3MzMzMSAwLjE1
+NDk5MSwwLjMwMTY2MiAwLjI5OTk5NiwwLjM4NDk5NSAwLjE0NDk5MSwwLjA4MzMzIDAuMzA0OTg5
+LDAuMTAxNjY1IDAuNDc5OTk0LDAuMDU1IDAuMTgyOTA3LC0wLjA1NSAwLjMxNzA3MSwtMC4xNTQ5
+OTcgMC40MDI0OTUsLTAuMjk5OTk2IDAuMDg1NDEsLTAuMTQ0OTk4IDAuMTA0NTczLC0wLjMwNDk5
+NSAwLjA1NzUsLTAuNDc5OTk0IGwgLTMuMTk5OTU5LC0xMS41OTk4NSB6IG0gLTIuMTk5OTcxLDgu
+MzE5ODkzIGMgMC4yNzcwNzYsLTEuMDE0OTgzIDAuNTU3OTA2LC0yLjAzOTk2OCAwLjg0MjQ4OSwt
+My4wNzQ5NjEgMC4yODQ1NzUsLTEuMDM0OTc4IDAuNTMwNDA1LC0xLjkyOTk2NiAwLjczNzQ5LC0y
+LjY4NDk2NSAwLjIwNzA3NywwLjc1NDk5OSAwLjQ1MjkwNywxLjY0OTk4NyAwLjczNzQ5MSwyLjY4
+NDk2NSAwLjI4NDU3NCwxLjAzNDk5MyAwLjU2NTQwNCwyLjA1OTk3OCAwLjg0MjQ4OSwzLjA3NDk2
+MSBsIC0zLjE1OTk1OSwwIHoiIGlkPSJwYXRoMzc5OSIgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZh
+dHVyZT0iMCIvPg0KICAgICAgPHBhdGggZD0ibSAyNi42Njg0NjQsMzAuMzU4OTggMy45OTk5NDgs
+MCBjIDAuMTc1NDA4LC0wLjAwNDIgMC4zMjQ1NzMsLTAuMDY1ODMgMC40NDc0OTQsLTAuMTg0OTk4
+IDAuMTIyOTA5LC0wLjExOTE2NSAwLjE4NzA3NCwtMC4yNzA4MjkgMC4xOTI0OTgsLTAuNDU0OTk0
+IC0wLjAwNTQsLTAuMTg0MTYzIC0wLjA2OTU5LC0wLjMzNTgyOCAtMC4xOTI0OTgsLTAuNDU0OTk0
+IC0wLjEyMjkyMSwtMC4xMTkxNjQgLTAuMjcyMDg2LC0wLjE4MDgzIC0wLjQ0NzQ5NCwtMC4xODQ5
+OTcgbCAtMy4zNTk5NTcsMCAwLC0xMC44Nzk4NiBjIC0wLjAwNTQsLTAuMTg0MTUyIC0wLjA2OTU4
+LC0wLjMzNTgxNyAtMC4xOTI0OTcsLTAuNDU0OTk1IC0wLjEyMjkxOCwtMC4xMTkxNTIgLTAuMjcy
+MDgyLC0wLjE4MDgxOCAtMC40NDc0OTQsLTAuMTg0OTk3IC0wLjE4NDE2NywwLjAwNDIgLTAuMzM1
+ODMxLDAuMDY1ODQgLTAuNDU0OTk1LDAuMTg0OTk4IC0wLjExOTE2NiwwLjExOTE3NyAtMC4xODA4
+MzIsMC4yNzA4NDIgLTAuMTg0OTk3LDAuNDU0OTk0IGwgMCwxMS41MTk4NTEgYyAwLjAwNDIsMC4x
+ODQxNjUgMC4wNjU4MywwLjMzNTgzIDAuMTg0OTk4LDAuNDU0OTk1IDAuMTE5MTYzLDAuMTE5MTY1
+IDAuMjcwODI3LDAuMTgwODMgMC40NTQ5OTQsMC4xODQ5OTcgeiIgaWQ9InBhdGgzODAxIiBpbmtz
+Y2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIi8+DQogICAgICA8cGF0aCBkPSJtIDM1LjAwMTU3
+MSwzMC4zMzg5OCBjIDAuNjc2MjM3LDAuMTczMzMxIDEuMzIzNzI4LDAuMTMxNjY1IDEuOTQyNDc1
+LC0wLjEyNDk5OSAwLjYxODczNiwtMC4yNTY2NjMgMS4xMTEyMjksLTAuNjg4MzIzIDEuNDc3NDgx
+LC0xLjI5NDk4MiAwLjA3ODc0LC0wLjE1NjY2NCAwLjA5NjI0LC0wLjMxODMyOSAwLjA1MjUsLTAu
+NDg0OTk1IC0wLjA0Mzc2LC0wLjE2NjY2MiAtMC4xNDEyNTUsLTAuMjk4MzI3IC0wLjI5MjQ5Niwt
+MC4zOTQ5OTQgLTAuMTU2NjcyLC0wLjA3ODc1IC0wLjMxODMzNiwtMC4wOTYyNSAtMC40ODQ5OTQs
+LTAuMDUyNSAtMC4xNjY2NzEsMC4wNDM3NSAtMC4yOTgzMzUsMC4xNDEyNSAtMC4zOTQ5OTUsMC4y
+OTI0OTYgLTAuMjA4NzUzLDAuMzQ0MTY0IC0wLjQ5MTI0OSwwLjU5MDgyNyAtMC44NDc0ODksMC43
+Mzk5OSAtMC4zNTYyNSwwLjE0OTE2NyAtMC43MzM3NDUsMC4xNzU4MzMgLTEuMTMyNDg1LDAuMDgg
+LTAuMzg2NjY1LC0wLjEwODMzIC0wLjY5ODMyOCwtMC4zMTY2NjEgLTAuOTM0OTg4LC0wLjYyNDk5
+MiAtMC4yMzY2NjcsLTAuMzA4MzI3IC0wLjM1ODMzMiwtMC42NjY2NTYgLTAuMzY0OTk1LC0xLjA3
+NDk4NiBsIDAsLTYuNzk5OTEyIGMgMC4wMDY3LC0wLjQwODMxOCAwLjEyODMyOSwtMC43NjY2NDYg
+MC4zNjQ5OTUsLTEuMDc0OTg2IDAuMjM2NjYsLTAuMzA4MzE5IDAuNTQ4MzIzLC0wLjUxNjY0OSAw
+LjkzNDk4OCwtMC42MjQ5OTIgMC4zOTg3NCwtMC4wOTU4MiAwLjc3NjIzNSwtMC4wNjkxNiAxLjEz
+MjQ4NSwwLjA4IDAuMzU2MjQsMC4xNDkxNzYgMC42Mzg3MzYsMC4zOTU4MzkgMC44NDc0ODksMC43
+Mzk5OSAwLjA5NjY2LDAuMTUyNTA5IDAuMjI4MzI1LDAuMjUyNTA3IDAuMzk0OTk1LDAuMjk5OTk2
+IDAuMTY2NjU5LDAuMDQ3NTEgMC4zMjgzMjMsMC4wMjc1MSAwLjQ4NDk5NCwtMC4wNiAwLjE1MTI0
+MSwtMC4wOTY2NSAwLjI0ODc0LC0wLjIyODMyIDAuMjkyNDk2LC0wLjM5NDk5NSAwLjA0Mzc0LC0w
+LjE2NjY1MyAwLjAyNjI0LC0wLjMyODMxOCAtMC4wNTI1LC0wLjQ4NDk5NCAtMC4zNjYyNTIsLTAu
+NTk3ODk3IC0wLjg1ODc0NSwtMS4wMjcwNTggLTEuNDc3NDgxLC0xLjI4NzQ4MyAtMC42MTg3NDcs
+LTAuMjYwNDAxIC0xLjI2NjIzOCwtMC4zMDQ1NjcgLTEuOTQyNDc1LC0wLjEzMjQ5OCAtMC42ODA0
+MTEsMC4xOTM3NTkgLTEuMjI0NTcsMC41NTYyNTQgLTEuNjMyNDc5LDEuMDg3NDg2IC0wLjQwNzkx
+MywwLjUzMTI1NCAtMC42MTcwNzcsMS4xNDg3NDUgLTAuNjI3NDkyLDEuODUyNDc2IGwgMCw2Ljc5
+OTkxMiBjIDAuMDEwNDIsMC43MDM3NDMgMC4yMTk1NzksMS4zMjEyMzQgMC42Mjc0OTIsMS44NTI0
+NzYgMC40MDc5MDksMC41MzEyNDQgMC45NTIwNjgsMC44OTM3MzkgMS42MzI0NzksMS4wODc0ODYg
+eiIgaWQ9InBhdGgzODAzIiBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIi8+DQogICAg
+PC9nPg0KICA8L2c+DQogIDxnIGlua3NjYXBlOmdyb3VwbW9kZT0ibGF5ZXIiIGlkPSJsYXllcjQi
+IGlua3NjYXBlOmxhYmVsPSJPdXRsaW5lIiBzb2RpcG9kaTppbnNlbnNpdGl2ZT0idHJ1ZSIgc3R5
+bGU9ImRpc3BsYXk6aW5saW5lIj4NCiAgICA8Y2lyY2xlIHNvZGlwb2RpOnJ5PSIyMSIgc29kaXBv
+ZGk6Y3g9IjI0IiBzdHlsZT0iZmlsbDpub25lO3N0cm9rZTojMmQyZDJkO3N0cm9rZS13aWR0aDox
+LjU7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRl
+cmxpbWl0OjEwO3N0cm9rZS1vcGFjaXR5OjEiIHI9IjIxIiBjeT0iMjQiIGN4PSIyNCIgc3Ryb2tl
+LW1pdGVybGltaXQ9IjEwIiBzb2RpcG9kaTpyeD0iMjEiIHNvZGlwb2RpOmN5PSIyNCIgaWQ9Im91
+dGxpbmUiIGQ9Ik0gNDUsMjQgQyA0NSwzNS41OTc5OCAzNS41OTc5OCw0NSAyNCw0NSAxMi40MDIw
+Miw0NSAzLDM1LjU5Nzk4IDMsMjQgMywxMi40MDIwMiAxMi40MDIwMiwzIDI0LDMgMzUuNTk3OTgs
+MyA0NSwxMi40MDIwMiA0NSwyNCB6Ii8+DQogIDwvZz4NCjwvc3ZnPg0KDQoNCg==
 ]]>
     </Image>
     <Image id="-590060868"><![CDATA[PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjw/
@@ -3125,6 +3338,50 @@ ICAgPC9nPg0KICA8L2c+DQo8L3N2Zz4NCg0KDQo=
         <ConnectionRule>CONNECT_CONSECUTIVE</ConnectionRule>
       </Port>
     </ModelReference>
+    <ModelReference model="Calc_spec_gML" icon="-963241190">
+      <Port version="6" name="Inlet" content="gMLBus" subType="Selects_variable_types" dir="0" dimensions="" x="0.0" y="0.5" set="" dynamic="false">
+        <Transform ScaleX="32.0" ScaleY="32.0" ShearX="0.0" ShearY="0.0" TranslateX="114.0" TranslateY="453.0"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Inlet">
+            <Transform ScaleX="1.0" ScaleY="1.0" ShearX="0.0" ShearY="0.0" TranslateX="114.0" TranslateY="485.0"/>
+          </Label>
+          <Label LabelClass="type" Identifier="gMLBus">
+            <Transform ScaleX="1.0" ScaleY="1.0" ShearX="0.0" ShearY="0.0" TranslateX="114.0" TranslateY="500.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoint id="1" port="Inlet"/>
+        <ConnectionRule>CONNECT_ALL</ConnectionRule>
+        <ConnectionRule>CONNECT_ONCE</ConnectionRule>
+      </Port>
+      <Port version="6" name="Outlet" content="gMLBus" subType="Selects_variable_types" dir="1" dimensions="" x="1.0" y="0.5" set="" dynamic="false">
+        <Transform ScaleX="32.0" ScaleY="32.0" ShearX="0.0" ShearY="0.0" TranslateX="483.4650205761317" TranslateY="450.25514403292175"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Outlet">
+            <Transform ScaleX="1.0" ScaleY="1.0" ShearX="0.0" ShearY="0.0" TranslateX="483.4650205761317" TranslateY="482.25514403292175"/>
+          </Label>
+          <Label LabelClass="type" Identifier="gMLBus">
+            <Transform ScaleX="1.0" ScaleY="1.0" ShearX="0.0" ShearY="0.0" TranslateX="483.4650205761317" TranslateY="497.25514403292175"/>
+          </Label>
+        </Labels>
+        <ConnectionPoint id="1" port="Outlet"/>
+        <ConnectionRule>CONNECT_ALL</ConnectionRule>
+        <ConnectionRule>CONNECT_ONCE</ConnectionRule>
+      </Port>
+      <Port version="6" name="setPort" content="gMLBus" subType="Supplies_variable_types" dir="2" dimensions="nset" x="0.5" y="0.0" set="" dynamic="true">
+        <Transform ScaleX="32.0" ScaleY="32.0" ShearX="0.0" ShearY="0.0" TranslateX="76.40776699029114" TranslateY="665.2524271844653"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="setPort">
+            <Transform ScaleX="1.0" ScaleY="1.0" ShearX="0.0" ShearY="0.0" TranslateX="76.40776699029114" TranslateY="697.2524271844653"/>
+          </Label>
+          <Label LabelClass="type" Identifier="gMLBus">
+            <Transform ScaleX="1.0" ScaleY="1.0" ShearX="0.0" ShearY="0.0" TranslateX="76.40776699029114" TranslateY="712.2524271844653"/>
+          </Label>
+        </Labels>
+        <ConnectionPoint id="1" port="setPort" portExpr="1:nset"/>
+        <ConnectionRule>CONNECT_ONCE</ConnectionRule>
+        <ConnectionRule>CONNECT_CONSECUTIVE</ConnectionRule>
+      </Port>
+    </ModelReference>
     <ModelReference model="Condenser_steam_gML" icon="560132328">
       <Port version="6" name="inlet_auxiliary" content="gMLMaterial" subType="" dir="0" dimensions="no_aux" x="0.14400000000000002" y="1.0" set="" dynamic="true">
         <Transform ScaleX="32.0" ScaleY="32.0" ShearX="0.0" ShearY="0.0" TranslateX="72.89190562720262" TranslateY="505.6864588272824"/>
@@ -4113,12 +4370,12 @@ ICAgPC9nPg0KICA8L2c+DQo8L3N2Zz4NCg0KDQo=
     </ModelReference>
   </ModelReferenceCache>
   <Group name="Models">
-    <ModelEntity name="Boiler_get_set_signal" version="8" UnitNameShown="true" UnitModelShown="false" AutoRouteConnections="true">
+    <ModelEntity name="Boiler_calc_signal" version="8" UnitNameShown="true" UnitModelShown="false" AutoRouteConnections="true">
       <Properties>
         <StringProperty name="CreatedBy">uditg</StringProperty>
-        <DateProperty name="CreatedDate">2020-11-06T23:21:02Z</DateProperty>
+        <DateProperty name="CreatedDate">2020-11-20T17:22:55Z</DateProperty>
         <StringProperty name="ModifiedBy">uditg</StringProperty>
-        <DateProperty name="ModifiedDate">2020-11-07T00:40:09Z</DateProperty>
+        <DateProperty name="ModifiedDate">2020-11-20T17:23:53Z</DateProperty>
         <BooleanProperty name="Win32LineSeparation">false</BooleanProperty>
         <StringProperty name="DefaultTab">topology</StringProperty>
         <StringProperty name="DefaultCaseTab">reports</StringProperty>
@@ -4242,6 +4499,17 @@ ICAgPC9nPg0KICA8L2c+DQo8L3N2Zz4NCg0KDQo=
           <ConnectionPoint id="3" port="inlet"/>
           <ConnectionPoint id="4" port="outlet"/>
         </ConnectionPoints>
+        <Specification version="7" umsVersion="2">
+          <ConfigurationMode name="Boiling point range" value="Wide range"/>
+          <ConfigurationMode name="Cost calculations" value="Cost_Off"/>
+          <ConfigurationMode name="Design mode" value="Design Off"/>
+          <ConfigurationMode name="Initialisation procedure" value="IP_Design_Off_Fast"/>
+          <ConfigurationMode name="Phase" value="Multiphase"/>
+          <ConfigurationMode name="SP(1).Mode" value="SP(1).Flow-driven"/>
+          <ConfigurationMode name="SP(1).Outlet specification" value="SP(1).Pressure ratio"/>
+          <ConfigurationMode name="THERMO.Low flow protection" value="THERMO.Low_flow_On"/>
+          <ConfigurationMode name="Mode" value="Flow-driven" active="false"/>
+        </Specification>
       </Unit>
       <Unit version="5" name="Blower_Gas" model="Blower_gML" layer="Layer 1" zorder="-61" icon="1705566352">
         <Transform ScaleX="69.0" ScaleY="64.0" ShearX="0.0" ShearY="0.0" TranslateX="666.0" TranslateY="898.0"/>
@@ -4259,33 +4527,1341 @@ ICAgPC9nPg0KICA8L2c+DQo8L3N2Zz4NCg0KDQo=
           <ConnectionPoint id="3" port="inlet"/>
           <ConnectionPoint id="4" port="outlet"/>
         </ConnectionPoints>
-        <Specification version="7" umsVersion="4">
-          <ConfigurationMode name="Calculation mode" value="Mass_and_energy_balances_only"/>
-          <ConfigurationMode name="Compression type" value="Isentropic"/>
+        <Specification version="7" umsVersion="2">
+          <ConfigurationMode name="Boiling point range" value="Wide range"/>
           <ConfigurationMode name="Cost calculations" value="Cost_Off"/>
-          <ConfigurationMode name="Initialisation procedure" value="IP_On"/>
-          <ConfigurationMode name="Initialisation procedure type" value="IP_Automatic_Fast"/>
-          <ConfigurationMode name="Mode" value="Flow-driven"/>
+          <ConfigurationMode name="Design mode" value="Design Off"/>
+          <ConfigurationMode name="Initialisation procedure" value="IP_Design_Off_Fast"/>
+          <ConfigurationMode name="Phase" value="Multiphase"/>
+          <ConfigurationMode name="SP(1).Mode" value="SP(1).Flow-driven"/>
           <ConfigurationMode name="SP(1).Outlet specification" value="SP(1).Pressure increase"/>
-          <ConfigurationMode name="THERMO.Boiling point range" value="THERMO.Wide range"/>
           <ConfigurationMode name="THERMO.Low flow protection" value="THERMO.Low_flow_On"/>
-          <ConfigurationMode name="THERMO.Phase" value="THERMO.Multiphase"/>
-          <ConfigurationMode name="THERMO.Polytropic index protection" value="THERMO.Polytropic index protection: Off"/>
-          <ConfigurationMode name="THERMO.Specifications" value="THERMO.Specifications On"/>
-          <ConfigurationMode name="interpolation_methods(1).Clip efficiency" value="interpolation_methods(1).Clip efficiency: No" active="false"/>
-          <ConfigurationMode name="interpolation_methods(1).Extrapolate efficiency" value="interpolation_methods(1).Extrapolate efficiency: Yes" active="false"/>
-          <ActiveMode mode="Flow-driven AND (Design Off OR Design)"/>
-          <ActiveMode mode="Flow-driven AND Design Off"/>
-          <ActiveMode mode="IP_Robust option enabled"/>
+          <ConfigurationMode name="Mode" value="Flow-driven" active="false"/>
+          <Value name="mechanical_eff" value="100" uom="percent"/>
+          <Value name="SP(1).PI_spec" value="5000" uom="pascal"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Boiler" model="Boiler_pulverised_coal_gML" layer="Layer 1" zorder="-9" icon="1168414583">
+        <Transform ScaleX="251.0" ScaleY="309.0" ShearX="0.0" ShearY="0.0" TranslateX="335.37857142857143" TranslateY="411.3267857142858"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Boiler">
+            <Transform ScaleX="50.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="374.0" TranslateY="710.0"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Boiler_pulverised_coal_gML">
+            <Transform ScaleX="209.00000000000006" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="335.0" TranslateY="739.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="bus_air" portFirst="1"/>
+          <ConnectionPoint id="2" port="InletAir"/>
+          <ConnectionPoint id="3" port="InletCoal"/>
+          <ConnectionPoint id="4" port="InletReheatSteam"/>
+          <ConnectionPoint id="5" port="InletWater"/>
+          <ConnectionPoint id="6" port="OutletFlueGas"/>
+          <ConnectionPoint id="7" port="OutletHPSteam"/>
+          <ConnectionPoint id="8" port="OutletReheatSteam"/>
+          <ConnectionPoint id="9" port="setPort" portFirst="1"/>
+          <ConnectionPoint id="10" port="setPort" portFirst="2"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="2">
+          <ConfigurationMode name="air_heater.Thermal specification" value="air_heater.Cold stream specification"/>
+          <ConfigurationMode name="Excess air option selection" value="O2_mass_fraction"/>
+          <ConfigurationMode name="Feed_water_flowrate" value="Fixed feedwater flowrate"/>
+          <ConfigurationMode name="RH_PD" value="RH_Pout"/>
+          <ConfigurationMode name="SH_PD_OnOff" value="SH_PD_Off"/>
+          <ConfigurationMode name="Spec_boiler_efficiency.Boiler Type" value="Spec_boiler_efficiency.Subcritical"/>
+          <ConfigurationMode name="Spec_boiler_efficiency.Efficiency specification" value="Spec_boiler_efficiency.FixedSub"/>
+          <Value name="air_heater.S_leak" value="8.7" uom="percent"/>
+          <Value name="Air_heater.T_c_spec" value="375" uom="degree_celsius"/>
+          <Value name="Calc_boiler_load_point.MCR_MW" value="1200" uom="megawatt"/>
+          <Value name="Calc_excess_air_load_point.excess_air_100" value="0.05" uom="fraction"/>
+          <Value name="Calc_excess_air_load_point.excess_air_min" value="0.05" uom="fraction"/>
+          <Value name="Furnace.chi" value="0.8" uom="fraction"/>
+          <Value name="Furnace.p_fg" value="0.99" uom="bar"/>
+          <Value name="Furnace.T_bash" value="600.0" uom="degree_celsius"/>
+          <Value name="Furnace.w_C_ash" value="0.02" uom="fraction"/>
+          <Value name="Reheater.P_out" value="35" uom="bar"/>
+          <Value name="Spec_boiler_efficiency.BEC.dRHT_sub" value="546.3944" uom="degree_celsius"/>
+          <Value name="Spec_boiler_efficiency.BEC.dSHT_sub" value="568.0" uom="degree_celsius"/>
+          <Value name="Superheater.P_out" value="165" uom="bar"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Calc_spec_gML001" model="Calc_spec_gML" layer="Layer 1" zorder="-68" icon="-963241190">
+        <Transform ScaleX="48.0" ScaleY="48.0" ShearX="0.0" ShearY="0.0" TranslateX="1097.2256432160164" TranslateY="143.08116756193454"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Calc_spec_gML001">
+            <Transform ScaleX="1.0" ScaleY="1.0" ShearX="0.0" ShearY="0.0" TranslateX="1097.2256432160164" TranslateY="195.08116756193454"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Calc_spec_gML">
+            <Transform ScaleX="1.0" ScaleY="1.0" ShearX="0.0" ShearY="0.0" TranslateX="1097.2256432160164" TranslateY="210.08116756193454"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="Inlet"/>
+          <ConnectionPoint id="2" port="Outlet"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="1">
+          <ConfigurationMode name="Calculation mode" value="Equal"/>
+          <ConfigurationMode name="Input variable type" value="Scalar"/>
+          <ConfigurationMode name="Output variable type" value="Scalar_Out"/>
+          <Value name="InletSetSignalTypesScalar" value="[&quot;Mass flowrate&quot;]"/>
+          <Value name="OutletSetSignalTypesScalar" value="[&quot;Mass flowrate&quot;]"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Condenser" model="Condenser_steam_gML" layer="Layer 1" zorder="-46" icon="560132328">
+        <Transform ScaleX="131.0" ScaleY="77.0" ShearX="0.0" ShearY="0.0" TranslateX="1538.9071733113153" TranslateY="538.5125649703647"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Condenser">
+            <Transform ScaleX="90.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1499.3730300480775" TranslateY="521.8473179997085"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Condenser_steam_gML">
+            <Transform ScaleX="182.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1538.0" TranslateY="634.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="inlet_auxiliary" portFirst="1"/>
+          <ConnectionPoint id="2" port="inlet_steam"/>
+          <ConnectionPoint id="3" port="inlet_water"/>
+          <ConnectionPoint id="4" port="outlet_steam"/>
+          <ConnectionPoint id="5" port="outlet_water"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="2">
+          <ConfigurationMode name="Initialisation procedure" value="IP_Automatic_Fast"/>
+          <ConfigurationMode name="Mode" value="Flow-driven"/>
+          <ConfigurationMode name="SP_condenser_steam.Mode" value="SP_condenser_steam.Design"/>
+          <ConfigurationMode name="SP_condenser_steam.Pressure drop_steam" value="SP_condenser_steam.Pressure drop_steam"/>
+          <ConfigurationMode name="SP_condenser_steam.Pressure drop_water" value="SP_condenser_steam.Pressure drop_water"/>
+          <ConfigurationMode name="SP_condenser_steam.SP_H.Thermal specification_steam" value="SP_condenser_steam.SP_H.Subcooled liquid"/>
+          <ConfigurationMode name="SP_condenser_steam.Thermal specification" value="SP_condenser_steam.Steam side specification"/>
+          <Value name="SP_condenser_steam.SP_H.delta_T_subcooled" value="1.0" uom="degree_celsius"/>
+          <DistributedValue name="SP_condenser_steam.U" dimensions="3" uom="watt_per_square_metre_kelvin">
+            <Datum indices="0" value="3000"/>
+            <Datum indices="1" value="3000"/>
+            <Datum indices="2" value="3000"/>
+          </DistributedValue>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Condenser_Pump" model="Pump_gML" layer="Layer 1" zorder="-51" icon="375961933">
+        <Transform ScaleX="-63.0" ScaleY="61.00000000000005" ShearX="0.0" ShearY="0.0" TranslateX="1518.1537175977198" TranslateY="758.7036864226252"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Condenser_Pump">
+            <Transform ScaleX="139.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1409.3499446022734" TranslateY="832.3641139277389"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Pump_gML">
+            <Transform ScaleX="90.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1455.0" TranslateY="838.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="axis_in"/>
+          <ConnectionPoint id="2" port="axis_out"/>
+          <ConnectionPoint id="3" port="inlet"/>
+          <ConnectionPoint id="4" port="outlet"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="9">
+          <ConfigurationMode name="Cost calculations" value="Cost_Off"/>
+          <ConfigurationMode name="Design mode" value="Design Off"/>
+          <ConfigurationMode name="SP(1).Mode" value="SP(1).Flow-driven"/>
+          <ConfigurationMode name="SP(1).Outlet specification" value="SP(1).Pressure outlet"/>
+          <Value name="SP(1).P_out_spec" value="8" uom="bar"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="CW_Inlet" model="Source_H2O_gML" layer="Layer 1" zorder="-47" icon="1576191052">
+        <Transform ScaleX="-66.0" ScaleY="39.0" ShearX="0.0" ShearY="0.0" TranslateX="1800.1277155307394" TranslateY="458.8078221977916"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="CW_Inlet">
+            <Transform ScaleX="72.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1721.1243433493592" TranslateY="436.62171674679485"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Source_H2O_gML">
+            <Transform ScaleX="139.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1734.0" TranslateY="516.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="outlet"/>
+          <ConnectionPoint id="2" port="setPort" portFirst="1"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="5">
+          <ConfigurationMode name="Flowrate specification" value="SP_F_w.Mass"/>
+          <ConfigurationMode name="Mass accumulation" value="Mass_accumulation_Off"/>
+          <ConfigurationMode name="Mode" value="Flow-driven"/>
+          <ConfigurationMode name="Phase" value="Multiphase"/>
+          <ConfigurationMode name="Thermal specification" value="SP_H.Temperature"/>
+          <ActiveMode mode="CommonModeFor___Flowrate specification___AutoGeneratedBy_gPROMS_0005"/>
+          <ActiveMode mode="CommonModeFor___Phase___AutoGeneratedBy_gPROMS_0001"/>
+          <ActiveMode mode="CommonModeFor___Thermal specification___AutoGeneratedBy_gPROMS_0002"/>
+          <Value name="pressure" value="1" uom="atmosphere"/>
+          <Value name="SP_H.T" value="25" uom="degree_celsius"/>
+          <Include name="SP_F_w.mass_flowrate" value="false"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="CW_outlet" model="Sink_material_gML" layer="Layer 1" zorder="-48" icon="987450171">
+        <Transform ScaleX="66.0" ScaleY="39.00000000000001" ShearX="0.0" ShearY="0.0" TranslateX="1750.5989812495989" TranslateY="665.6533717635111"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="CW_outlet">
+            <Transform ScaleX="84.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1750.0000000000002" TranslateY="727.0"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Sink_material_gML">
+            <Transform ScaleX="143.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1750.0" TranslateY="723.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="inlet"/>
+          <ConnectionPoint id="2" port="setPort" portFirst="1"/>
+        </ConnectionPoints>
+      </Unit>
+      <Unit version="5" name="Deaerator" model="Deaerator_gML" layer="Layer 1" zorder="-50" icon="-1519713088">
+        <Transform ScaleX="174.0" ScaleY="106.0" ShearX="0.0" ShearY="0.0" TranslateX="1229.9289651757042" TranslateY="751.6356865828425"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Deaerator">
+            <Transform ScaleX="81.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1229.0" TranslateY="861.0"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Deaerator_gML">
+            <Transform ScaleX="120.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1229.0" TranslateY="876.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="InletBFW"/>
+          <ConnectionPoint id="2" port="InletSteam"/>
+          <ConnectionPoint id="3" port="OutletBFW"/>
+          <ConnectionPoint id="4" port="OutletBleedSteam"/>
+          <ConnectionPoint id="5" port="setPort" portFirst="1"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="1">
+          <ConfigurationMode name="Bleed fraction" value="Determined_from_steam_flow"/>
+          <ConfigurationMode name="ms.Liquid surface pressure specification" value="ms.Pressure drop from minimum of inlet pressures"/>
+          <Value name="ADJ(1).AdjustSignalTypesScalar" value="*L*T*none available*G*T*"/>
+          <Value name="CALC_BF.Bleed_fraction_target" value="0.0" uom="fraction"/>
+          <Value name="ms.FP(1).PD_spec" value="1.0" uom="bar"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Electrostatic_precipitator_gML001" model="Electrostatic_precipitator_gML" layer="Layer 1" zorder="-60" icon="941026008">
+        <Transform ScaleX="56.0" ScaleY="58.0" ShearX="0.0" ShearY="0.0" TranslateX="538.9884750603866" TranslateY="1005.0"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Electrostatic_precipitator_gML001">
+            <Transform ScaleX="1.0" ScaleY="1.0" ShearX="0.0" ShearY="0.0" TranslateX="538.9884750603866" TranslateY="1067.0"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Electrostatic_precipitator_gML">
+            <Transform ScaleX="1.0" ScaleY="1.0" ShearX="0.0" ShearY="0.0" TranslateX="538.9884750603866" TranslateY="1082.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="inlet"/>
+          <ConnectionPoint id="2" port="outlet"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="1">
+          <ConfigurationMode name="Ash removal specification" value="Efficiency"/>
+          <ConfigurationMode name="Initialisation procedure" value="IP_Automatic_Robust"/>
+          <ConfigurationMode name="Pressure specification" value="Pressure drop"/>
+          <Value name="calc_ash.eta" value="99.5" uom="percent"/>
+          <Value name="cs.PD_specs" value="1500" uom="pascal"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Feed_Water_Heater" model="Feed_water_heater_gML" layer="Layer 1" zorder="-54" icon="542372485">
+        <Transform ScaleX="144.0" ScaleY="63.0" ShearX="0.0" ShearY="0.0" TranslateX="840.606185919347" TranslateY="784.6999914559094"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Feed_Water_Heater">
+            <Transform ScaleX="151.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="840.0" TranslateY="851.0"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Feed_water_heater_gML">
+            <Transform ScaleX="185.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="840.0" TranslateY="866.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="inlet_steam"/>
+          <ConnectionPoint id="2" port="inlet_water"/>
+          <ConnectionPoint id="3" port="outlet_steam"/>
+          <ConnectionPoint id="4" port="outlet_water"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="1">
+          <ConfigurationMode name="Initialisation procedure" value="IP_Automatic_Fast"/>
+          <ConfigurationMode name="SP_condenser_stream.Mode" value="SP_condenser_stream.Design"/>
+          <ConfigurationMode name="SP_condenser_stream.Pressure drop_steam" value="SP_condenser_stream.Pressure drop_steam"/>
+          <ConfigurationMode name="SP_condenser_stream.Pressure drop_water" value="SP_condenser_stream.Pressure drop_water"/>
+          <ConfigurationMode name="SP_condenser_stream.SP_H.Thermal specification_steam" value="SP_condenser_stream.SP_H.Temperature"/>
+          <ConfigurationMode name="SP_condenser_stream.Thermal specification" value="SP_condenser_stream.Steam side specification"/>
+          <Value name="SP_condenser_stream.SP_H.T" value="166.0" uom="degree_celsius"/>
+          <DistributedValue name="SP_condenser_stream.U" dimensions="3" uom="watt_per_square_metre_kelvin">
+            <Datum indices="0" value="100.0"/>
+            <Datum indices="1" value="3000"/>
+            <Datum indices="2" value="1000"/>
+          </DistributedValue>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Flue_Gas" model="Sink_material_gML" layer="Layer 1" zorder="-10" icon="987450171">
+        <Transform ScaleX="66.0" ScaleY="39.0" ShearX="0.0" ShearY="0.0" TranslateX="789.8215667983908" TranslateY="881.6335750817897"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Flue_Gas">
+            <Transform ScaleX="78.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="789.2138299275359" TranslateY="923.2916987274928"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Sink_material_gML">
+            <Transform ScaleX="143.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="789.2138299275359" TranslateY="938.2916987274928"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="inlet"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="5">
+          <ConfigurationMode name="Mass accumulation" value="Mass_accumulation_Off"/>
+          <ConfigurationMode name="Mode" value="Flow-driven"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Fresh_Water" model="Source_material_gML" layer="Layer 1" zorder="-64" icon="676705338">
+        <Transform ScaleX="-66.0" ScaleY="-39.0" ShearX="-0.0" ShearY="-0.0" TranslateX="1810.5396358443122" TranslateY="797.3723733047867"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Fresh_Water">
+            <Transform ScaleX="1.0" ScaleY="1.0" ShearX="0.0" ShearY="0.0" TranslateX="1744.5396358443122" TranslateY="801.3723733047867"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Source_material_gML">
+            <Transform ScaleX="1.0" ScaleY="1.0" ShearX="0.0" ShearY="0.0" TranslateX="1744.5396358443122" TranslateY="816.3723733047867"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="outlet"/>
+          <ConnectionPoint id="2" port="setPort" portFirst="1"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="8">
+          <ConfigurationMode name="Component specification" value="SP_F_w.Component fractions and overall flowrate"/>
+          <ConfigurationMode name="Composition specification" value="SP_F_w.Mass_basis"/>
+          <ConfigurationMode name="Flowrate specification" value="SP_F_w.Mass"/>
+          <ConfigurationMode name="Mass accumulation" value="Mass_accumulation_Off"/>
+          <ConfigurationMode name="Mode" value="Flow-driven"/>
+          <ConfigurationMode name="Phase" value="Multiphase"/>
+          <ConfigurationMode name="Thermal specification" value="SP_H.Temperature"/>
+          <ActiveMode mode="Flow specified main"/>
+          <ActiveMode mode="Flowrate specification enabled"/>
+          <ActiveMode mode="Flowrate specification enabled main"/>
+          <ActiveMode mode="Phase ModeSet enabled"/>
+          <Value name="phys_prop" value="Multiflash::mass:water.mfl"/>
+          <Value name="pressure" value="0.5" uom="bar"/>
+          <DistributedValue name="SP_F_w.mass_fraction" dimensions="1" uom="kilogram_per_kilogram">
+            <Datum indices="0" value="1.0"/>
+          </DistributedValue>
+          <Value name="SP_H.T" value="353" uom="kelvin"/>
+          <Include name="SP_F_w.mass_flowrate" value="false"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Governor_valve" model="Valve_gML" layer="Layer 1" zorder="-41" icon="387453584">
+        <Transform ScaleX="54.0" ScaleY="34.0" ShearX="0.0" ShearY="0.0" TranslateX="524.5654708462969" TranslateY="174.14949561295333"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Governor_valve">
+            <Transform ScaleX="122.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="495.90765821678326" TranslateY="211.0"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Valve_gML">
+            <Transform ScaleX="88.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="524.0" TranslateY="226.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="inlet"/>
+          <ConnectionPoint id="2" port="outlet"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="19">
+          <ConfigurationMode name="Calculation mode" value="Design"/>
+          <ConfigurationMode name="Check valve" value="check_valve_no"/>
+          <ConfigurationMode name="Flash information" value="Report_Flash_Off"/>
+          <ConfigurationMode name="Flow relation" value="Fisher"/>
+          <ConfigurationMode name="Inherent characteristic" value="SIZE(1).CHAR.Linear"/>
+          <ConfigurationMode name="Liquid flashing" value="Warn_liquid_flashing_off"/>
+          <ConfigurationMode name="Liquid_check_for_choking" value="Liquid_choking_Off"/>
+          <ConfigurationMode name="Multiphase fluid in valve" value="Warn_multiphase_off"/>
+          <ConfigurationMode name="Outlet specification" value="SP_PH.Pressure"/>
+          <ConfigurationMode name="Phase" value="Multiphase"/>
+          <ConfigurationMode name="Phase-sizing" value="SIZE(1).Liquid"/>
+          <ConfigurationMode name="Sizing variable" value="Valve_coefficient_sizing_option"/>
+          <ConfigurationMode name="Stem position" value="Stem_position_specified"/>
+          <ConfigurationMode name="Dynamics_Valve" value="Dynamics_Off" active="false"/>
+          <ActiveMode mode="Inherent characteristic ModeSet enabled"/>
           <ActiveMode mode="NOT Performance"/>
-          <ActiveMode mode="SP(1).Flow-driven"/>
-          <ActiveMode mode="SP(1).Outlet specification ModeSet enabled"/>
-          <ActiveMode mode="SP(1).Outlet/inlet specification ModeSets enabled (externally)"/>
-          <ActiveMode mode="SP(1).Pressure increase Mode enabled"/>
-          <ActiveMode mode="SP(1).Pressure increase Mode enabled (externally)"/>
-          <ActiveMode mode="SP(1).Pressure outlet Mode enabled"/>
-          <ActiveMode mode="SP(1).Pressure ratio Mode enabled"/>
-          <ActiveMode mode="SP(1).Specifications On"/>
+          <ActiveMode mode="Outlet specification ModeSet enabled"/>
+          <ActiveMode mode="SIZE(1).valve_sizing_On"/>
+          <ActiveMode mode="Stem position ModeSet enabled"/>
+          <Value name="SPEC.P_spec" value="160" uom="bar"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="HP_Turbine" model="Expander_gML" layer="Layer 1" zorder="-40" icon="320027135">
+        <Transform ScaleX="98.0" ScaleY="86.0" ShearX="0.0" ShearY="0.0" TranslateX="921.766784238612" TranslateY="285.92504008134495"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="HP_Turbine">
+            <Transform ScaleX="90.9999999999999" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="886.4444471166092" TranslateY="367.3711584492895"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Expander_gML">
+            <Transform ScaleX="118.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1021.0" TranslateY="385.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="axis_in"/>
+          <ConnectionPoint id="2" port="axis_out"/>
+          <ConnectionPoint id="3" port="energy_out" portFirst="1"/>
+          <ConnectionPoint id="4" port="Inlet"/>
+          <ConnectionPoint id="5" port="Outlet"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="6">
+          <ConfigurationMode name="Boiling point range" value="Wide range"/>
+          <ConfigurationMode name="Cost calculations" value="Cost_Off"/>
+          <ConfigurationMode name="Design mode" value="Design Off (Ellipse law)"/>
+          <ConfigurationMode name="Efficiency" value="Isentropic"/>
+          <ConfigurationMode name="Initialisation procedure" value="IP_Design_Off_Fast"/>
+          <ConfigurationMode name="Phase" value="Multiphase"/>
+          <ConfigurationMode name="SP(1).Mode" value="SP(1).Flow-driven"/>
+          <ConfigurationMode name="SP(1).Outlet specification" value="SP(1).Pressure outlet"/>
+          <ConfigurationMode name="THERMO.Low flow protection" value="THERMO.Low_flow_On"/>
+          <Value name="eta_is" value="92" uom="percent"/>
+          <Value name="eta_p" value="92" uom="percent"/>
+          <Value name="SP(1).P_out_spec" value="40" uom="bar"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="IP_Turbine" model="Expander_gML" layer="Layer 1" zorder="-44" icon="320027135">
+        <Transform ScaleX="98.0" ScaleY="86.0" ShearX="0.0" ShearY="0.0" TranslateX="1141.909062008064" TranslateY="285.92504008134495"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="IP_Turbine">
+            <Transform ScaleX="84.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1120.531917196225" TranslateY="370.68557922464475"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Expander_gML">
+            <Transform ScaleX="118.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1141.0" TranslateY="390.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="axis_in"/>
+          <ConnectionPoint id="2" port="axis_out"/>
+          <ConnectionPoint id="3" port="energy_out" portFirst="1"/>
+          <ConnectionPoint id="4" port="Inlet"/>
+          <ConnectionPoint id="5" port="Outlet"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="6">
+          <ConfigurationMode name="Boiling point range" value="Wide range"/>
+          <ConfigurationMode name="Cost calculations" value="Cost_Off"/>
+          <ConfigurationMode name="Design mode" value="Design Off (Ellipse law)"/>
+          <ConfigurationMode name="Efficiency" value="Isentropic"/>
+          <ConfigurationMode name="Initialisation procedure" value="IP_Design_Off_Fast"/>
+          <ConfigurationMode name="Phase" value="Multiphase"/>
+          <ConfigurationMode name="SP(1).Mode" value="SP(1).Flow-driven"/>
+          <ConfigurationMode name="SP(1).Outlet specification" value="SP(1).Pressure outlet"/>
+          <ConfigurationMode name="THERMO.Low flow protection" value="THERMO.Low_flow_On"/>
+          <Value name="eta_is" value="92" uom="percent"/>
+          <Value name="SP(1).P_out_spec" value="4.0" uom="bar"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="LP_Turbine" model="Expander_gML" layer="Layer 1" zorder="-44" icon="320027135">
+        <Transform ScaleX="98.0" ScaleY="86.0" ShearX="0.0" ShearY="0.0" TranslateX="1379.2895843217543" TranslateY="285.92504008134495"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="LP_Turbine">
+            <Transform ScaleX="90.0" ScaleY="18.99999999999998" ShearX="0.0" ShearY="0.0" TranslateX="1345.0165509933854" TranslateY="368.17021302180274"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Expander_gML">
+            <Transform ScaleX="118.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1378.0" TranslateY="390.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="axis_in"/>
+          <ConnectionPoint id="2" port="axis_out"/>
+          <ConnectionPoint id="3" port="energy_out" portFirst="1"/>
+          <ConnectionPoint id="4" port="Inlet"/>
+          <ConnectionPoint id="5" port="Outlet"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="6">
+          <ConfigurationMode name="Boiling point range" value="Wide range"/>
+          <ConfigurationMode name="Cost calculations" value="Cost_Off"/>
+          <ConfigurationMode name="Design mode" value="Design Off (Ellipse law)"/>
+          <ConfigurationMode name="Efficiency" value="Isentropic"/>
+          <ConfigurationMode name="Initialisation procedure" value="IP_Design_Off_Fast"/>
+          <ConfigurationMode name="Phase" value="Multiphase"/>
+          <ConfigurationMode name="SP(1).Mode" value="SP(1).Flow-driven"/>
+          <ConfigurationMode name="SP(1).Outlet specification" value="SP(1).Pressure outlet"/>
+          <ConfigurationMode name="THERMO.Low flow protection" value="THERMO.Low_flow_On"/>
+          <Value name="eta_is" value="92" uom="percent"/>
+          <Value name="SP(1).P_out_spec" value="0.5" uom="bar"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Mixer_gML001" model="Mixer_gML" layer="Layer 1" zorder="-63" icon="-1470724395">
+        <Transform ScaleX="0.0" ScaleY="-0.0" ShearX="-50.0" ShearY="26.0" TranslateX="1624.4834140349142" TranslateY="681.3368632268355"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Mixer_gML001">
+            <Transform ScaleX="1.0" ScaleY="1.0" ShearX="0.0" ShearY="0.0" TranslateX="1586.4834140349144" TranslateY="723.3368632268356"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Mixer_gML">
+            <Transform ScaleX="1.0" ScaleY="1.0" ShearX="0.0" ShearY="0.0" TranslateX="1586.4834140349144" TranslateY="738.3368632268356"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="inlet" portFirst="1"/>
+          <ConnectionPoint id="2" port="inlet" portFirst="2"/>
+          <ConnectionPoint id="3" port="outlet"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="9">
+          <ConfigurationMode name="Design" value="Design_Off"/>
+          <ConfigurationMode name="Mode" value="Flow-driven"/>
+          <ConfigurationMode name="ms.Low flow protection" value="ms.Low_flow_On"/>
+          <ConfigurationMode name="ms.Number of outlets" value="ms.Single outlet"/>
+          <ConfigurationMode name="ms.Outlet pressure drop" value="ms.Outlet_pressure_drop_Off"/>
+          <ConfigurationMode name="ms.Phase" value="ms.Multiphase"/>
+          <ConfigurationMode name="ms.Pressure specification" value="ms.Minimum of inlet pressures"/>
+          <ConfigurationMode name="ms.SP_HT.Specification" value="ms.SP_HT.holdup_solid_dynamics_Off"/>
+          <ConfigurationMode name="ms.Specification" value="ms.mixer_splitter_On"/>
+          <ConfigurationMode name="ms.Thermal specification" value="ms.Adiabatic operation"/>
+          <ActiveMode mode="ms.Design off OR Dynamics off"/>
+          <ActiveMode mode="ms.Design_Off"/>
+          <ActiveMode mode="ms.Flow-driven"/>
+          <ActiveMode mode="ms.Flow-driven AND (Design off OR Dynamics off)"/>
+          <ActiveMode mode="ms.Flow-driven OR Design off OR Dynamics off"/>
+          <ActiveMode mode="ms.Flow-driven OR Steady_state"/>
+          <ActiveMode mode="ms.Multiphase Option enabled"/>
+          <ActiveMode mode="ms.No outlets ModeSet enabled"/>
+          <ActiveMode mode="ms.Pressure specification ModeSet enabled"/>
+          <ActiveMode mode="ms.Pressure specification on Pressure tab"/>
+          <ActiveMode mode="ms.Pressure specification_Not_specified_here Option enabled"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Mixer_Power" model="Mixer_energy_gML" layer="Layer 1" zorder="-56" icon="259610833">
+        <Transform ScaleX="26.0" ScaleY="-50.0" ShearX="0.0" ShearY="0.0" TranslateX="1583.0008769242568" TranslateY="69.2322704051295"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Mixer_Power">
+            <Transform ScaleX="101.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1585.3455197813996" TranslateY="79.7322704051295"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Mixer_energy_gML">
+            <Transform ScaleX="145.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1582.3455197813996" TranslateY="87.7322704051295"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="inlet" portFirst="1"/>
+          <ConnectionPoint id="2" port="inlet" portFirst="2"/>
+          <ConnectionPoint id="3" port="inlet" portFirst="3"/>
+          <ConnectionPoint id="4" port="outlet"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="1">
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Pump_BFW" model="Pump_gML" layer="Layer 1" zorder="-52" icon="375961933">
+        <Transform ScaleX="-63.0" ScaleY="61.0" ShearX="0.0" ShearY="0.0" TranslateX="1138.6034252594218" TranslateY="881.331097325716"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Pump_BFW">
+            <Transform ScaleX="92.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1048.0781724577505" TranslateY="956.5346281687061"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Pump_gML">
+            <Transform ScaleX="90.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1075.0" TranslateY="961.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="axis_in"/>
+          <ConnectionPoint id="2" port="axis_out"/>
+          <ConnectionPoint id="3" port="inlet"/>
+          <ConnectionPoint id="4" port="outlet"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="9">
+          <ConfigurationMode name="Cost calculations" value="Cost_Off"/>
+          <ConfigurationMode name="Design mode" value="Design Off"/>
+          <ConfigurationMode name="SP(1).Mode" value="SP(1).Flow-driven"/>
+          <ConfigurationMode name="SP(1).Outlet specification" value="SP(1).Pressure outlet"/>
+          <Value name="SP(1).P_out_spec" value="178" uom="bar"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="RB_BFW" model="Loop_breaker_gML" layer="Layer 1" zorder="-43" icon="-2071040854">
+        <Transform ScaleX="-57.0" ScaleY="40.0" ShearX="0.0" ShearY="0.0" TranslateX="741.5962483493333" TranslateY="584.8457859642076"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="RB_BFW">
+            <Transform ScaleX="71.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="614.0" TranslateY="613.0"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Loop_breaker_gML">
+            <Transform ScaleX="149.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="682.9999999999999" TranslateY="643.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="inlet"/>
+          <ConnectionPoint id="2" port="outlet"/>
+          <ConnectionPoint id="3" port="setPort" portFirst="1"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="4">
+          <ConfigurationMode name="Component specification" value="SP_F_w.Component fractions and overall flowrate"/>
+          <ConfigurationMode name="Composition specification" value="SP_F_w.Mass_basis"/>
+          <ConfigurationMode name="Flowrate specification" value="SP_F_w.Mass"/>
+          <ConfigurationMode name="Initialisation procedure" value="IP_Automatic_Fast"/>
+          <ConfigurationMode name="Mode" value="Flow-driven"/>
+          <ConfigurationMode name="Operation mode" value="InitProc"/>
+          <ConfigurationMode name="Phase" value="Multiphase"/>
+          <ConfigurationMode name="Thermal specification" value="SP_H.Temperature"/>
+          <ActiveMode mode="Component fractions specified"/>
+          <ActiveMode mode="Component specification ModeSet enabled"/>
+          <ActiveMode mode="Composition specification ModeSet enabled"/>
+          <ActiveMode mode="Flow-driven OR Pressure-driven"/>
+          <ActiveMode mode="Flowrate specification ModeSet enabled"/>
+          <ActiveMode mode="Initialisation procedure enabled"/>
+          <ActiveMode mode="InitProc_flow_driven"/>
+          <ActiveMode mode="not ClosedCase_Loop"/>
+          <ActiveMode mode="Thermal specification made on Initial guesses tab"/>
+          <ActiveMode mode="Thermal specification ModeSet enabled"/>
+          <Value name="phys_prop" value="Multiflash::mass:water.mfl"/>
+          <Value name="pressure" value="178" uom="bar"/>
+          <Value name="SP_F_w.mass_flowrate" value="     28.6471" uom="kilogram_per_second"/>
+          <DistributedValue name="SP_F_w.mass_fraction" dimensions="1" uom="kilogram_per_kilogram">
+            <Datum indices="0" value="1"/>
+          </DistributedValue>
+          <Value name="SP_H.T" value="500" uom="kelvin"/>
+          <Include name="SP_F_w.mass_flowrate" value="false"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="RB_FWH" model="Recycle_breaker_gML" layer="Layer 1" zorder="-43" icon="-2056531297">
+        <Transform ScaleX="57.0" ScaleY="40.0" ShearX="0.0" ShearY="0.0" TranslateX="1063.955008778416" TranslateY="987.2444748795837"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="RB_FWH">
+            <Transform ScaleX="71.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1062.2397705783799" TranslateY="1034.7051424096803"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Recycle_breaker_gML">
+            <Transform ScaleX="168.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1063.0" TranslateY="1046.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="inlet"/>
+          <ConnectionPoint id="2" port="outlet"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="1">
+          <ConfigurationMode name="Component specification" value="SP_F_w.Component fractions and overall flowrate"/>
+          <ConfigurationMode name="Composition specification" value="SP_F_w.Mass_basis"/>
+          <ConfigurationMode name="Flowrate specification" value="SP_F_w.Mass"/>
+          <ConfigurationMode name="Initialisation procedure" value="IP_Automatic_Fast"/>
+          <ConfigurationMode name="Operation mode" value="InitProc"/>
+          <ConfigurationMode name="Phase" value="Multiphase"/>
+          <ConfigurationMode name="Thermal specification" value="SP_H.Temperature"/>
+          <Value name="pressure" value="40" uom="bar"/>
+          <Value name="SP_F_w.mass_flowrate" value="100" uom="tonne_per_hour"/>
+          <DistributedValue name="SP_F_w.mass_fraction" dimensions="1" uom="kilogram_per_kilogram">
+            <Datum indices="0" value="1"/>
+          </DistributedValue>
+          <Value name="SP_H.T" value="220" uom="degree_celsius"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="RB_reheat" model="Recycle_breaker_gML" layer="Layer 1" zorder="-43" icon="-2056531297">
+        <Transform ScaleX="-57.0" ScaleY="40.0" ShearX="0.0" ShearY="0.0" TranslateX="810.0143819095136" TranslateY="502.56679120744985"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="RB_reheat">
+            <Transform ScaleX="84.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="729.0" TranslateY="538.0"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Recycle_breaker_gML">
+            <Transform ScaleX="168.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="752.0" TranslateY="561.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="inlet"/>
+          <ConnectionPoint id="2" port="outlet"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="1">
+          <ConfigurationMode name="Component specification" value="SP_F_w.Component fractions and overall flowrate"/>
+          <ConfigurationMode name="Composition specification" value="SP_F_w.Mass_basis"/>
+          <ConfigurationMode name="Flowrate specification" value="SP_F_w.Mass"/>
+          <ConfigurationMode name="Initialisation procedure" value="IP_Automatic_Fast"/>
+          <ConfigurationMode name="Operation mode" value="InitProc"/>
+          <ConfigurationMode name="Phase" value="Multiphase"/>
+          <ConfigurationMode name="Thermal specification" value="SP_H.Temperature"/>
+          <Value name="pressure" value="40" uom="bar"/>
+          <Value name="SP_F_w.mass_flowrate" value="900" uom="tonne_per_hour"/>
+          <DistributedValue name="SP_F_w.mass_fraction" dimensions="1" uom="kilogram_per_kilogram">
+            <Datum indices="0" value="1"/>
+          </DistributedValue>
+          <Value name="SP_H.T" value="357" uom="degree_celsius"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="SCR_gML001" model="SCR_gML" layer="Layer 1" zorder="-59" icon="1687726689">
+        <Transform ScaleX="83.0" ScaleY="157.0" ShearX="0.0" ShearY="0.0" TranslateX="418.38109246706296" TranslateY="1087.6069149637678"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="SCR_gML001">
+            <Transform ScaleX="1.0" ScaleY="1.0" ShearX="0.0" ShearY="0.0" TranslateX="418.38109246706296" TranslateY="1248.6069149637678"/>
+          </Label>
+          <Label LabelClass="type" Identifier="SCR_gML">
+            <Transform ScaleX="1.0" ScaleY="1.0" ShearX="0.0" ShearY="0.0" TranslateX="418.38109246706296" TranslateY="1263.6069149637678"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="inlet"/>
+          <ConnectionPoint id="2" port="outlet"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="1">
+          <ConfigurationMode name="Initialisation procedure" value="IP_Automatic_Robust"/>
+          <ConfigurationMode name="spec_SCR_efficiency.Removal specifications" value="spec_SCR_efficiency.Removal_efficiency"/>
+          <ConfigurationMode name="spec_SCR_NH3.Ammonia reagent type" value="spec_SCR_NH3.Aqueous Ammonia"/>
+          <Value name="SOURCE_UREA.pressure" value="100000" uom="pascal"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Sink_material_gML001" model="Sink_material_gML" layer="Layer 1" zorder="-58" icon="987450171">
+        <Transform ScaleX="66.0" ScaleY="39.0" ShearX="0.0" ShearY="0.0" TranslateX="496.0" TranslateY="44.0"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Sink_material_gML001">
+            <Transform ScaleX="1.0" ScaleY="1.0" ShearX="0.0" ShearY="0.0" TranslateX="496.0" TranslateY="87.0"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Sink_material_gML">
+            <Transform ScaleX="1.0" ScaleY="1.0" ShearX="0.0" ShearY="0.0" TranslateX="496.0" TranslateY="102.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="inlet"/>
+          <ConnectionPoint id="2" port="setPort" portFirst="1"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="5">
+          <ConfigurationMode name="Mass accumulation" value="Mass_accumulation_Off"/>
+          <ConfigurationMode name="Mode" value="Flow-driven"/>
+          <Include name="SP.flow_scale" value="false"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Sink_Power" model="Sink_energy_gML" layer="Layer 1" zorder="-55" icon="854537557">
+        <Transform ScaleX="66.0" ScaleY="-39.0" ShearX="0.0" ShearY="0.0" TranslateX="1707.0" TranslateY="95.0"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Sink_Power">
+            <Transform ScaleX="160.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1707.0" TranslateY="99.0"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Sink_energy_gML">
+            <Transform ScaleX="136.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1707.0" TranslateY="114.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="inlet"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="1">
+          <ConfigurationMode name="Energy accumulation" value="Energy_accumulation_Off"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Source_air" model="Source_air_gML" layer="Layer 1" zorder="-6" icon="-590060868">
+        <Transform ScaleX="66.0" ScaleY="39.0" ShearX="0.0" ShearY="0.0" TranslateX="62.378571428571426" TranslateY="716.9707848140172"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Source_air">
+            <Transform ScaleX="87.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="55.42789612322388" TranslateY="697.2222235583043"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Source_air_gML">
+            <Transform ScaleX="126.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="62.0" TranslateY="774.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="outlet"/>
+          <ConnectionPoint id="2" port="setPort" portFirst="1"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="3">
+          <ConfigurationMode name="Flowrate specification" value="SP_F_w.Mass"/>
+          <ConfigurationMode name="Mass accumulation" value="Mass_accumulation_Off"/>
+          <ConfigurationMode name="Mode" value="Flow-driven"/>
+          <ConfigurationMode name="Phase" value="Multiphase"/>
+          <ConfigurationMode name="SP_w.Composition basis" value="SP_w.Molar_dry_moisture"/>
+          <ConfigurationMode name="SP_w.Humidity specification" value="SP_w.Dry gas composition + moisture content"/>
+          <ConfigurationMode name="Thermal specification" value="SP_H.Temperature"/>
+          <ActiveMode mode="CommonModeFor___Flowrate specification___AutoGeneratedBy_gPROMS_0009"/>
+          <ActiveMode mode="CommonModeFor___Phase___AutoGeneratedBy_gPROMS_0001"/>
+          <ActiveMode mode="CommonModeFor___SP_w.Humidity specification___AutoGeneratedBy_gPROMS_0006"/>
+          <ActiveMode mode="CommonModeFor___Thermal specification___AutoGeneratedBy_gPROMS_0005"/>
+          <Value name="pressure" value="1.0" uom="atmosphere"/>
+          <Value name="SP_H.T" value="30.0" uom="degree_celsius"/>
+          <DistributedValue name="SP_w.w_molar_dry" dimensions="4" uom="mole_percent">
+            <Datum indices="0" value="79"/>
+            <Datum indices="1" value="21"/>
+            <Datum indices="2" value="0"/>
+            <Datum indices="3" value="0"/>
+          </DistributedValue>
+          <Value name="SP_w.w_molar_H2O" value="0" uom="mole_per_mole"/>
+          <Include name="SP_F_w.mass_flowrate" value="false"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Source_coal" model="Source_coal_gML" layer="Layer 1" zorder="-7" icon="-144174550">
+        <Transform ScaleX="66.0" ScaleY="-39.0" ShearX="0.0" ShearY="0.0" TranslateX="62.37857142857143" TranslateY="619.3167912074499"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Source_coal">
+            <Transform ScaleX="101.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="56.742316898579105" TranslateY="551.0212781308186"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Source_coal_gML">
+            <Transform ScaleX="140.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="62.00000000000001" TranslateY="637.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="MillingPower"/>
+          <ConnectionPoint id="2" port="Outlet"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="1">
+          <ConfigurationMode name="Coal specification" value="Ultimate"/>
+          <ConfigurationMode name="Heating values" value="LHV Specified"/>
+          <ConfigurationMode name="Mass accumulation" value="Mass_accumulation_Off"/>
+          <ActiveMode mode="CommonModeFor___Heating values___AutoGeneratedBy_gPROMS_0001"/>
+          <Value name="c_p" value="1" uom="kilojoule_per_kilogram_kelvin"/>
+          <Value name="F" value="136.0" uom="tonne_per_hour"/>
+          <Value name="LHV_spec" value="24.0"/>
+          <Value name="T" value="25.0" uom="degree_celsius"/>
+          <DistributedValue name="w_spec_u" dimensions="7">
+            <Datum indices="0" value="0.6314"/>
+            <Datum indices="1" value="0.0365"/>
+            <Datum indices="2" value="0.0365"/>
+            <Datum indices="3" value="0.0145"/>
+            <Datum indices="4" value="0.0110"/>
+            <Datum indices="5" value="0.1000"/>
+            <Datum indices="6" value="0.1700"/>
+          </DistributedValue>
+          <Include name="F" value="true"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Splitter_gML001" model="Splitter_gML" layer="Layer 1" zorder="-57" icon="2032013187">
+        <Transform ScaleX="26.0" ScaleY="50.0" ShearX="0.0" ShearY="0.0" TranslateX="419.0774011703992" TranslateY="164.76405545234965"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Splitter_gML001">
+            <Transform ScaleX="111.0" ScaleY="20.0" ShearX="0.0" ShearY="0.0" TranslateX="391.4003698239612" TranslateY="230.41754233506072"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Splitter_gML">
+            <Transform ScaleX="1.0" ScaleY="1.0" ShearX="0.0" ShearY="0.0" TranslateX="419.0774011703992" TranslateY="233.76405545234965"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="Inlet"/>
+          <ConnectionPoint id="2" port="Outlet" portFirst="1"/>
+          <ConnectionPoint id="3" port="Outlet" portFirst="2"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="10">
+          <ConfigurationMode name="Design" value="Design_Off"/>
+          <ConfigurationMode name="Mode" value="Flow-driven"/>
+          <ConfigurationMode name="ms.Flowrate basis" value="ms.SP_split(1).Mass flow rate (Main)"/>
+          <ConfigurationMode name="ms.Low flow protection" value="ms.Low_flow_On"/>
+          <ConfigurationMode name="ms.Number of outlets" value="ms.Multiple outlets"/>
+          <ConfigurationMode name="ms.Outlet pressure drop" value="ms.Outlet_pressure_drop_Off"/>
+          <ConfigurationMode name="ms.Phase" value="ms.Multiphase"/>
+          <ConfigurationMode name="ms.Pressure specification" value="ms.Minimum of inlet pressures"/>
+          <ConfigurationMode name="ms.SP_HT.Specification" value="ms.SP_HT.holdup_solid_dynamics_Off"/>
+          <ConfigurationMode name="ms.Specification" value="ms.mixer_splitter_On"/>
+          <ConfigurationMode name="ms.Specification type" value="ms.SP_split(1).Flow rate (Main)"/>
+          <ConfigurationMode name="ms.Specify" value="ms.Last stream not specified (Main)"/>
+          <ConfigurationMode name="ms.Thermal specification" value="ms.Adiabatic operation"/>
+          <ActiveMode mode="ms.Design off OR Dynamics off"/>
+          <ActiveMode mode="ms.Design_Off"/>
+          <ActiveMode mode="ms.Flow-driven"/>
+          <ActiveMode mode="ms.Flow-driven AND (Design off OR Dynamics off)"/>
+          <ActiveMode mode="ms.Flow-driven OR Design off OR Dynamics off"/>
+          <ActiveMode mode="ms.Flow-driven OR Steady_state"/>
+          <ActiveMode mode="ms.Multiphase Option enabled"/>
+          <ActiveMode mode="ms.No outlets ModeSet enabled"/>
+          <ActiveMode mode="ms.Pressure specification ModeSet enabled"/>
+          <ActiveMode mode="ms.Pressure specification on Pressure tab"/>
+          <ActiveMode mode="ms.Pressure specification_Not_specified_here Option enabled"/>
+          <DistributedValue name="ms.SP_split(1).F_i_out_spec" dimensions="1" uom="kilogram_per_second">
+            <Datum indices="0" value="100"/>
+          </DistributedValue>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Splitter_HP_Turbine" model="Splitter_gML" layer="Layer 1" zorder="-42" icon="2032013187">
+        <Transform ScaleX="0.0" ScaleY="-0.0" ShearX="50.0" ShearY="26.0" TranslateX="970.266784238612" TranslateY="436.3835604609554"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Splitter_HP_Turbine">
+            <Transform ScaleX="147.99999999999997" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="996.4846337971584" TranslateY="473.2576831014209"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Splitter_gML">
+            <Transform ScaleX="98.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1031.0" TranslateY="472.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="Inlet"/>
+          <ConnectionPoint id="2" port="Outlet" portFirst="1"/>
+          <ConnectionPoint id="3" port="Outlet" portFirst="2"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="6">
+          <ConfigurationMode name="ms.Design" value="ms.SIZE(1).shape_geometry_and_level_calc_Off"/>
+          <ConfigurationMode name="ms.Low flow protection" value="ms.Low_flow_On"/>
+          <ConfigurationMode name="ms.Mode" value="ms.Flow-driven"/>
+          <ConfigurationMode name="ms.Phase" value="ms.Multiphase"/>
+          <ConfigurationMode name="ms.Specification type" value="ms.SP_split(1).Split fraction (Main)"/>
+          <ConfigurationMode name="ms.Specify" value="ms.Last stream not specified (Main)"/>
+          <DistributedValue name="ms.SP_split(1).S_spec" dimensions="1" uom="fraction">
+            <Datum indices="0" value="0.9"/>
+          </DistributedValue>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Splitter_IP_Turbine" model="Splitter_gML" layer="Layer 1" zorder="-42" icon="2032013187">
+        <Transform ScaleX="0.0" ScaleY="-0.0" ShearX="50.0" ShearY="26.0" TranslateX="1190.409062008064" TranslateY="448.6019692147884"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Splitter_IP_Turbine">
+            <Transform ScaleX="141.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1219.8959789269973" TranslateY="495.94326232606574"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Splitter_gML">
+            <Transform ScaleX="98.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1251.0" TranslateY="484.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="Inlet"/>
+          <ConnectionPoint id="2" port="Outlet" portFirst="1"/>
+          <ConnectionPoint id="3" port="Outlet" portFirst="2"/>
+          <ConnectionPoint id="4" port="setPort" portFirst="1"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="6">
+          <ConfigurationMode name="ms.Design" value="ms.SIZE(1).shape_geometry_and_level_calc_Off"/>
+          <ConfigurationMode name="ms.Low flow protection" value="ms.Low_flow_On"/>
+          <ConfigurationMode name="ms.Mode" value="ms.Flow-driven"/>
+          <ConfigurationMode name="ms.Phase" value="ms.Multiphase"/>
+          <ConfigurationMode name="ms.Specification type" value="ms.SP_split(1).Split fraction (Main)"/>
+          <ConfigurationMode name="ms.Specify" value="ms.Last stream not specified (Main)"/>
+          <DistributedValue name="ms.SP_split(1).S_spec" dimensions="0" uom="fraction">
+          </DistributedValue>
+        </Specification>
+      </Unit>
+      <ValueTable version="2" layer="Layer 1" zorder="-67">
+        <Transform ScaleX="283.0" ScaleY="29.0" ShearX="0.0" ShearY="0.0" TranslateX="617.6266199621541" TranslateY="1208.0202213088594"/>
+        <variable id="SCR_gML001.SOURCE_UREA.REP(1).Component_mass_flowrate(&apos;AMMONIA&apos;)" label="Ammonia flow rate"/>
+        <Style version="1" autoscale="false" showOriginIndicator="true" overrideFont="false" fontSize="12" showVariableNames="true" uom="true" grid="true">
+          <Border style="DROP_SHADOW_BORDER" width="4">
+            <lineColour Red="0" Green="0" Blue="0"/>
+            <shadowColour Red="0" Green="0" Blue="0"/>
+          </Border>
+        </Style>
+      </ValueTable>
+      <Connection version="3" unit_1="Source_coal" point_1="2" unit_2="Boiler" point_2="3" name="">
+        <LineSegment points="128.37857,599.8168,335.37857,599.8168"/>
+      </Connection>
+      <Connection version="3" unit_1="Boiler" point_1="1" unit_2="Source_air" point_2="2" name="">
+        <LineSegment points="335.37857,654.0268,308.37857,654.0268,308.37857,765.97076,84.27857,765.97076,84.27857,755.97076"/>
+      </Connection>
+      <Connection version="3" unit_1="Source_air" point_1="1" unit_2="Air_Blower" point_2="3" name="">
+        <LineSegment points="128.37857,736.47076,171.37857,736.47076,171.37857,654.59576,212.37857,654.59576"/>
+      </Connection>
+      <Connection version="3" unit_1="Air_Blower" point_1="4" unit_2="Boiler" point_2="2" name="">
+        <LineSegment points="281.37857,634.1158,335.37857,634.1158"/>
+      </Connection>
+      <Connection version="3" unit_1="Boiler" point_1="9" unit_2="Adj_FW_flow" point_2="2" name="">
+        <LineSegment points="586.3786,641.1838,646.56244,641.1838,646.56244,670.6869"/>
+      </Connection>
+      <Connection version="3" unit_1="Boiler" point_1="10" unit_2="Adj_FW_flow" point_2="3" name="">
+        <LineSegment points="586.3786,650.1838,606.7205,650.1838,606.7205,694.6869,627.06244,694.6869"/>
+      </Connection>
+      <Connection version="3" unit_1="HP_Turbine" point_1="5" unit_2="Splitter_HP_Turbine" point_2="1" name="">
+        <LineSegment points="995.2668,371.92505,995.2668,436.38358"/>
+      </Connection>
+      <Connection version="3" unit_1="RB_reheat" point_1="1" unit_2="Splitter_HP_Turbine" point_2="2" name="">
+        <LineSegment points="810.0144,522.5668,986.2668,522.5668,986.2668,462.38358"/>
+      </Connection>
+      <Connection version="3" unit_1="RB_reheat" point_1="2" unit_2="Boiler" point_2="4" name="">
+        <LineSegment points="753.0144,522.5668,586.3786,522.5668"/>
+      </Connection>
+      <Connection version="3" unit_1="Boiler" point_1="8" unit_2="IP_Turbine" point_2="4" name="">
+        <LineSegment points="483.46857,411.32678,483.46857,271.1933,1162.587,271.1933,1162.587,285.92505"/>
+      </Connection>
+      <Connection version="3" unit_1="IP_Turbine" point_1="5" unit_2="Splitter_IP_Turbine" point_2="1" name="">
+        <LineSegment points="1215.409,371.92505,1215.409,448.60196"/>
+      </Connection>
+      <Connection version="3" unit_1="Splitter_IP_Turbine" point_1="2" unit_2="LP_Turbine" point_2="4" name="">
+        <LineSegment points="1206.409,474.60196,1206.409,484.60196,1309.8492,484.60196,1309.8492,275.92505,1399.9675,275.92505,1399.9675,285.92505"/>
+      </Connection>
+      <Connection version="3" unit_1="LP_Turbine" point_1="5" unit_2="Condenser" point_2="2" name="">
+        <LineSegment points="1452.7896,371.92505,1452.7896,455.2188,1604.4072,455.2188,1604.4072,538.5126"/>
+      </Connection>
+      <Connection version="3" unit_1="CW_Inlet" point_1="1" unit_2="Condenser" point_2="3" name="">
+        <LineSegment points="1734.1277,478.30783,1685.7904,478.30783,1685.7904,558.8406,1669.9072,558.8406"/>
+      </Connection>
+      <Connection version="3" unit_1="Condenser" point_1="5" unit_2="CW_outlet" point_2="1" name="">
+        <LineSegment points="1669.9072,582.78754,1686.5492,582.78754,1686.5492,685.1534,1750.599,685.1534"/>
+      </Connection>
+      <Connection version="3" unit_1="Adj_CW" point_1="1" unit_2="CW_Inlet" point_2="2" name="">
+        <LineSegment points="1764.4755,575.67993,1778.2277,575.67993,1778.2277,497.80783"/>
+      </Connection>
+      <Connection version="3" unit_1="Adj_CW" point_1="2" unit_2="CW_outlet" point_2="2" name="">
+        <LineSegment points="1716.4755,575.67993,1706.0,575.67993,1706.0,714.6534,1772.499,714.6534,1772.499,704.6534"/>
+      </Connection>
+      <Connection version="3" unit_1="Splitter_IP_Turbine" point_1="3" unit_2="Deaerator" point_2="2" name="">
+        <LineSegment points="1215.409,474.60196,1215.409,842.56366,1229.929,842.56366"/>
+      </Connection>
+      <Connection version="3" unit_1="Condenser_Pump" point_1="4" unit_2="Deaerator" point_2="1" name="">
+        <LineSegment points="1455.1537,767.8537,1403.929,767.8537"/>
+      </Connection>
+      <Connection version="3" unit_1="Deaerator" point_1="3" unit_2="Pump_BFW" point_2="3" name="">
+        <LineSegment points="1316.929,857.6357,1316.929,910.0011,1138.6034,910.0011"/>
+      </Connection>
+      <Connection version="3" unit_1="Feed_Water_Heater" point_1="2" unit_2="Pump_BFW" point_2="4" name="">
+        <LineSegment points="984.6062,816.2,1030.1047,816.2,1030.1047,890.4811,1075.6034,890.4811"/>
+      </Connection>
+      <Connection version="3" unit_1="Splitter_HP_Turbine" point_1="3" unit_2="Feed_Water_Heater" point_2="1" name="">
+        <LineSegment points="995.2668,462.38358,995.2668,652.2957,912.6062,652.2957,912.6062,784.7"/>
+      </Connection>
+      <Connection version="3" unit_1="Adj_DEA_bleed" point_1="2" unit_2="Deaerator" point_2="5" name="">
+        <LineSegment points="1428.6011,670.0879,1428.6011,811.0537,1403.929,811.0537"/>
+      </Connection>
+      <Connection version="3" unit_1="Adj_DEA_bleed" point_1="1" unit_2="Splitter_IP_Turbine" point_2="4" name="">
+        <LineSegment points="1428.6011,622.0879,1428.6011,457.10196,1240.409,457.10196"/>
+      </Connection>
+      <Connection version="3" unit_1="Feed_Water_Heater" point_1="3" unit_2="RB_FWH" point_2="1" name="">
+        <LineSegment points="876.6062,847.7,876.6062,1007.24445,1063.955,1007.24445"/>
+      </Connection>
+      <Connection version="3" unit_1="RB_FWH" point_1="2" unit_2="Condenser" point_2="1" name="">
+        <LineSegment points="1120.955,1007.24445,1553.2711,1007.24445,1553.2711,615.5126"/>
+      </Connection>
+      <Connection version="3" unit_1="Boiler" point_1="5" unit_2="RB_BFW" point_2="2" name="">
+        <LineSegment points="586.3786,560.5738,684.1393,560.5738,684.1393,604.84576,684.59625,604.84576"/>
+      </Connection>
+      <Connection version="3" unit_1="RB_BFW" point_1="1" unit_2="Feed_Water_Heater" point_2="4" name="">
+        <LineSegment points="741.59625,604.84576,791.10126,604.84576,791.10126,816.2,840.6062,816.2"/>
+      </Connection>
+      <Connection version="3" unit_1="Adj_FW_flow" point_1="1" unit_2="RB_BFW" point_2="3" name="">
+        <LineSegment points="675.06244,694.6869,717.59625,694.6869,717.59625,624.84576"/>
+      </Connection>
+      <Connection version="3" unit_1="IP_Turbine" point_1="3" unit_2="Mixer_Power" point_2="2" name="">
+        <LineSegment points="1199.109,285.92505,1199.109,48.73227,1583.0009,48.73227"/>
+      </Connection>
+      <Connection version="3" unit_1="LP_Turbine" point_1="3" unit_2="Mixer_Power" point_2="3" name="">
+        <LineSegment points="1436.4896,285.92505,1436.4896,39.73227,1583.0009,39.73227"/>
+      </Connection>
+      <Connection version="3" unit_1="Governor_valve" point_1="2" unit_2="HP_Turbine" point_2="4" name="">
+        <LineSegment points="578.5655,191.14949,942.44476,191.14949,942.44476,285.92505"/>
+      </Connection>
+      <Connection version="3" unit_1="Mixer_Power" point_1="4" unit_2="Sink_Power" point_2="1" name="">
+        <LineSegment points="1609.0009,44.23227,1658.0005,44.23227,1658.0005,75.5,1707.0,75.5"/>
+      </Connection>
+      <Connection version="3" unit_1="HP_Turbine" point_1="3" unit_2="Mixer_Power" point_2="1" name="">
+        <LineSegment points="978.9668,285.92505,978.9668,57.73227,1583.0009,57.73227"/>
+      </Connection>
+      <Connection version="3" unit_1="Boiler" point_1="7" unit_2="Splitter_gML001" point_2="1" name="">
+        <LineSegment points="372.02457,411.32678,372.02457,189.76405,419.0774,189.76405"/>
+      </Connection>
+      <Connection version="3" unit_1="Splitter_gML001" point_1="3" unit_2="Governor_valve" point_2="1" name="">
+        <LineSegment points="445.0774,189.76405,484.82144,189.76405,484.82144,191.14949,524.5655,191.14949"/>
+      </Connection>
+      <Connection version="3" unit_1="Splitter_gML001" point_1="2" unit_2="Sink_material_gML001" point_2="1" name="">
+        <LineSegment points="445.0774,180.76405,470.5387,180.76405,470.5387,63.5,496.0,63.5"/>
+      </Connection>
+      <Connection version="3" unit_1="Boiler" point_1="6" unit_2="SCR_gML001" point_2="1" name="">
+        <LineSegment points="469.41257,720.3268,469.41257,973.7282,408.3811,973.7282,408.3811,1197.507,418.3811,1197.507"/>
+      </Connection>
+      <Connection version="3" unit_1="SCR_gML001" point_1="2" unit_2="Electrostatic_precipitator_gML001" point_2="1" name="">
+        <LineSegment points="459.8811,1087.6069,459.8811,1028.2,538.98846,1028.2"/>
+      </Connection>
+      <Connection version="3" unit_1="Electrostatic_precipitator_gML001" point_1="2" unit_2="Blower_Gas" point_2="3" name="">
+        <LineSegment points="594.98846,1028.2,630.49426,1028.2,630.49426,928.144,666.0,928.144"/>
+      </Connection>
+      <Connection version="3" unit_1="Blower_Gas" point_1="4" unit_2="Flue_Gas" point_2="1" name="">
+        <LineSegment points="735.0,907.664,762.41077,907.664,762.41077,901.13354,789.8216,901.13354"/>
+      </Connection>
+      <Connection version="3" unit_1="Condenser" point_1="4" unit_2="Mixer_gML001" point_2="1" name="">
+        <LineSegment points="1604.4072,615.5126,1604.4072,648.42474,1608.4834,648.42474,1608.4834,681.33685"/>
+      </Connection>
+      <Connection version="3" unit_1="Mixer_gML001" point_1="3" unit_2="Condenser_Pump" point_2="3" name="">
+        <LineSegment points="1599.4834,707.33685,1599.4834,732.8546,1566.2756,732.8546,1566.2756,787.37366,1518.1537,787.37366"/>
+      </Connection>
+      <Connection version="3" unit_1="Fresh_Water" point_1="1" unit_2="Mixer_gML001" point_2="2" name="">
+        <LineSegment points="1744.5397,777.8724,1652.8949,777.8724,1652.8949,671.33685,1599.4834,671.33685,1599.4834,681.33685"/>
+      </Connection>
+      <Connection version="3" unit_1="Sink_material_gML001" point_1="2" unit_2="Calc_spec_gML001" point_2="1" name="">
+        <LineSegment points="517.9,83.0,517.9,143.9226,1058.7462,143.9226,1058.7462,167.08116,1097.2256,167.08116"/>
+      </Connection>
+      <Connection version="3" unit_1="Calc_spec_gML001" point_1="2" unit_2="Fresh_Water" point_2="2" name="">
+        <LineSegment points="1145.2256,167.08116,1826.599,167.08116,1826.599,731.5129,1788.6396,731.5129,1788.6396,758.3724"/>
+      </Connection>
+      <UMS><![CDATA[]]></UMS>
+      <Body><![CDATA[# PARAMETER
+# ParameterName AS INTEGER || REAL || LOGICAL || VariableType < DEFAULT Value >
+# ParameterName AS ARRAY ( Size < , ... > ) OF INTEGER || REAL || LOGICAL || VariableType < DEFAULT Value >
+# ParameterName AS FOREIGN_OBJECT < "ForeignObjectClass" > < DEFAULT "ForeignObjectValue" >
+# ParameterName AS ORDERED_SET < DEFAULT [ "Name" < , ... > ] >
+
+
+# DISTRIBUTION_DOMAIN
+# DomainName AS [ LowerBound : UpperBound ]
+# DomainName AS ARRAY ( Size < , ... > ) OF [ LowerBound : UpperBound ]
+
+
+# UNIT
+# UnitName AS UnitModelName
+# UnitName AS ARRAY ( Size || OrderedSet < , ... > ) OF UnitModelName
+
+
+# PORT
+# PortName AS ConnectionType < DIRECTION_INLET || DIRECTION_OUTLET || DIRECTION_BIDIRECTIONAL >
+# PortName AS ARRAY ( Size || OrderedSet < , ... > ) OF ConnectionType <DIRECTION_INLET || DIRECTION_OUTLET || DIRECTION_BIDIRECTIONAL >
+
+
+# VARIABLE
+# VariableName AS VariableType
+# VariableName AS ARRAY ( Size || OrderedSet < , ... > ) OF VariableType
+# VariableName AS DISTRIBUTION ( DomainName < , ... > ) OF VariableType
+
+
+# SELECTOR
+# SelectorName AS ( Flag < , ... > ) < DEFAULT Flag >
+# SelectorName AS ARRAY ( Size || OrderedSet < , ... > ) OF ( Flag < , ... > ) < DEFAULT Flag >
+# SelectorName AS DISTRIBUTION ( DomainName < , ... > ) OF ( Flag < , ... > ) < DEFAULT Flag >
+
+
+# SET
+# ParameterPath := Expression ;
+# ParameterPath := [ Expression < , ... > ];
+# ParameterPath := "<ForeignObjectClass::>ForeignObjectValue";
+# ParameterPath := [ "Name" < , ... > ];
+# DomainPath := [ BFDM || CFDM || FFDM || OCFEM , Order , NumOfElements ];
+
+
+# BOUNDARY
+# Boundary condition equations
+
+
+# TOPOLOGY
+# Unit connection equations
+
+
+# EQUATION
+# Model equations
+
+
+# ASSIGN
+# VariablePath := Expression ;
+# VariablePath := [ Expression < , ... > ];
+
+
+# PRESET
+# < RESTORE "filename" >
+# VariablePath := InitialValue ;
+# VariablePath := InitialValue : LowerBound : UpperBound ;
+
+
+# INITIALSELECTOR
+# SelectorPath := FlagPath ;
+# SelectorPath := [ FlagPath < , ... > ];
+
+
+# INITIAL
+# Equations
+
+UNIT
+    Source_air AS Source_air_gML
+    Source_coal AS Source_coal_gML
+    Boiler AS Boiler_pulverised_coal_gML
+    Flue_Gas AS Sink_material_gML
+    Air_Blower AS Blower_gML
+    Adj_FW_flow AS Adj_spec_gML
+    HP_Turbine AS Expander_gML
+    Governor_valve AS Valve_gML
+    Splitter_HP_Turbine AS Splitter_gML
+    RB_reheat AS Recycle_breaker_gML
+    IP_Turbine AS Expander_gML
+    LP_Turbine AS Expander_gML
+    Splitter_IP_Turbine AS Splitter_gML
+    Condenser AS Condenser_steam_gML
+    CW_Inlet AS Source_H2O_gML
+    CW_outlet AS Sink_material_gML
+    Adj_CW AS Adj_spec_gML
+    Deaerator AS Deaerator_gML
+    Condenser_Pump AS Pump_gML
+    Pump_BFW AS Pump_gML
+    Feed_Water_Heater AS Feed_water_heater_gML
+    Adj_DEA_bleed AS Adj_spec_gML
+    RB_FWH AS Recycle_breaker_gML
+    RB_BFW AS Loop_breaker_gML
+    Sink_Power AS Sink_energy_gML
+    Mixer_Power AS Mixer_energy_gML
+    Splitter_gML001 AS Splitter_gML
+    Sink_material_gML001 AS Sink_material_gML
+    SCR_gML001 AS SCR_gML
+    Electrostatic_precipitator_gML001 AS Electrostatic_precipitator_gML
+    Blower_Gas AS Blower_gML
+    Mixer_gML001 AS Mixer_gML
+    Fresh_Water AS Source_material_gML
+    Calc_spec_gML001 AS Calc_spec_gML
+SET
+
+TOPOLOGY
+    Source_coal.Outlet = Boiler.InletCoal;
+    Source_air.outlet = Air_Blower.inlet;
+    Air_Blower.outlet = Boiler.InletAir;
+    Boiler.bus_air(1) = Source_air.setPort(1);
+    Boiler.setPort(1) = Adj_FW_flow.external_target(1);
+    Boiler.setPort(2) = Adj_FW_flow.target;
+    HP_Turbine.Outlet = Splitter_HP_Turbine.Inlet;
+    RB_reheat.inlet = Splitter_HP_Turbine.Outlet(1);
+    RB_reheat.outlet = Boiler.InletReheatSteam;
+    Boiler.OutletReheatSteam = IP_Turbine.Inlet;
+    IP_Turbine.Outlet = Splitter_IP_Turbine.Inlet;
+    Splitter_IP_Turbine.Outlet(1) = LP_Turbine.Inlet;
+    LP_Turbine.Outlet = Condenser.inlet_steam;
+    CW_Inlet.outlet = Condenser.inlet_water;
+    Condenser.outlet_water = CW_outlet.inlet;
+    Adj_CW.Adjust = CW_Inlet.setPort(1);
+    Adj_CW.target = CW_outlet.setPort(1);
+    Condenser_Pump.outlet = Deaerator.InletBFW;
+    Splitter_IP_Turbine.Outlet(2) = Deaerator.InletSteam;
+    Deaerator.OutletBFW = Pump_BFW.inlet;
+    Feed_Water_Heater.inlet_water = Pump_BFW.outlet;
+    Splitter_HP_Turbine.Outlet(2) = Feed_Water_Heater.inlet_steam;
+    Adj_DEA_bleed.target = Deaerator.setPort(1);
+    Adj_DEA_bleed.Adjust = Splitter_IP_Turbine.setPort(1);
+    Feed_Water_Heater.outlet_steam = RB_FWH.inlet;
+    RB_FWH.outlet = Condenser.inlet_auxiliary(1);
+    Boiler.InletWater = RB_BFW.outlet;
+    RB_BFW.inlet = Feed_Water_Heater.outlet_water;
+    Adj_FW_flow.Adjust = RB_BFW.setPort(1);
+    IP_Turbine.energy_out(1) = Mixer_Power.inlet(2);
+    LP_Turbine.energy_out(1) = Mixer_Power.inlet(3);
+    Governor_valve.outlet = HP_Turbine.Inlet;
+    Mixer_Power.outlet = Sink_Power.inlet;
+    HP_Turbine.energy_out(1) = Mixer_Power.inlet(1);
+    Boiler.OutletHPSteam = Splitter_gML001.Inlet;
+    Splitter_gML001.Outlet(2) = Governor_valve.inlet;
+    Splitter_gML001.Outlet(1) = Sink_material_gML001.inlet;
+    Boiler.OutletFlueGas = SCR_gML001.inlet;
+    SCR_gML001.outlet = Electrostatic_precipitator_gML001.inlet;
+    Electrostatic_precipitator_gML001.outlet = Blower_Gas.inlet;
+    Blower_Gas.outlet = Flue_Gas.inlet;
+    Condenser.outlet_steam = Mixer_gML001.inlet(1);
+    Fresh_Water.outlet = Mixer_gML001.inlet(2);
+    Mixer_gML001.outlet = Condenser_Pump.inlet;
+    Sink_material_gML001.setPort(1) = Calc_spec_gML001.Inlet;
+    Calc_spec_gML001.Outlet = Fresh_Water.setPort(1);
+
+]]></Body>
+    </ModelEntity>
+    <ModelEntity name="Boiler_get_set_signal" version="8" UnitNameShown="true" UnitModelShown="false" AutoRouteConnections="true">
+      <Properties>
+        <StringProperty name="CreatedBy">uditg</StringProperty>
+        <DateProperty name="CreatedDate">2020-11-06T23:21:02Z</DateProperty>
+        <StringProperty name="ModifiedBy">uditg</StringProperty>
+        <DateProperty name="ModifiedDate">2020-11-19T18:04:53Z</DateProperty>
+        <BooleanProperty name="Win32LineSeparation">false</BooleanProperty>
+        <StringProperty name="DefaultTab">topology</StringProperty>
+        <StringProperty name="DefaultCaseTab">reports</StringProperty>
+        <BooleanProperty name="DisplayedInPalette">false</BooleanProperty>
+        <IntegerProperty name="SortPriority">2147483647</IntegerProperty>
+        <BooleanProperty name="RecycleBreaker">false</BooleanProperty>
+        <BooleanProperty name="IncludeInitialisationProcedure">true</BooleanProperty>
+      </Properties>
+      <Icon>-199773695</Icon>
+      <FlowsheetLayers DefaultLayer="Layer 1">
+        <Layer name="Layer 1" visible="true" printed="true"/>
+      </FlowsheetLayers>
+      <Unit version="5" name="Adj_CW" model="Adj_spec_gML" layer="Layer 1" zorder="-49" icon="-1882508349">
+        <Transform ScaleX="48.0" ScaleY="48.0" ShearX="0.0" ShearY="0.0" TranslateX="1716.4754209021803" TranslateY="551.6799502389382"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Adj_CW">
+            <Transform ScaleX="66.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1716.0" TranslateY="603.0"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Adj_spec_gML">
+            <Transform ScaleX="116.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1716.0" TranslateY="618.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="Adjust"/>
+          <ConnectionPoint id="2" port="target"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="5">
+          <ConfigurationMode name="Adjusted variable type" value="Scalar_Adjust"/>
+          <ConfigurationMode name="Initialisation procedure" value="IP_Automatic_Fast"/>
+          <ConfigurationMode name="Limit adjusted variable" value="No_limit"/>
+          <ConfigurationMode name="Mode" value="Flow-driven"/>
+          <ConfigurationMode name="Specification tradeoff operation mode" value="Initialisation procedure"/>
+          <ConfigurationMode name="Target variable type" value="Scalar_Source"/>
+          <ConfigurationMode name="Value for target variable" value="Specified here"/>
+          <ActiveMode mode="Initialisation procedure ModeSet enabled"/>
+          <ActiveMode mode="Robust Options enabled"/>
+          <Value name="adjust_init" value="10000"/>
+          <Value name="AdjustSignalTypesScalar" value="[&quot;Mass flowrate&quot;]"/>
+          <Value name="SourceSignalTypesScalar" value="[&quot;Temperature&quot;]"/>
+          <Value name="target_value" value="35+273.15"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Adj_DEA_bleed" model="Adj_spec_gML" layer="Layer 1" zorder="-40" icon="-1882508349">
+        <Transform ScaleX="-0.0" ScaleY="0.0" ShearX="48.0" ShearY="-48.0" TranslateX="1404.6010741099237" TranslateY="670.0878853774533"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Adj_DEA_bleed">
+            <Transform ScaleX="118.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1283.4370331803627" TranslateY="640.0550870119467"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Adj_spec_gML">
+            <Transform ScaleX="116.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="1404.0" TranslateY="689.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="Adjust"/>
+          <ConnectionPoint id="2" port="target"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="3">
+          <ConfigurationMode name="Adjusted variable type" value="Array_Adjust"/>
+          <ConfigurationMode name="Initialisation procedure" value="IP_Automatic_Fast"/>
+          <ConfigurationMode name="Limit adjusted variable" value="No_limit"/>
+          <ConfigurationMode name="Mode" value="Flow-driven"/>
+          <ConfigurationMode name="Operation mode" value="Initialisation procedure"/>
+          <ConfigurationMode name="Target variable type" value="Scalar_Source"/>
+          <ConfigurationMode name="Value for target variable" value="Specified here"/>
+          <Value name="adjust_init" value="0.9"/>
+          <Value name="AdjustSignalTypesArray" value="[&quot;Split fraction&quot;]"/>
+          <Value name="AdjustSignalTypesScalar" value="*L*T*none available*G*T*"/>
+          <Value name="SourceSignalTypesScalar" value="[&quot;Bleed fraction&quot;]"/>
+          <Value name="target_value" value="0"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Adj_FW_flow" model="Adj_spec_gML" layer="Layer 1" zorder="-39" icon="-1882508349">
+        <Transform ScaleX="48.0" ScaleY="-48.0" ShearX="0.0" ShearY="0.0" TranslateX="627.0624487500462" TranslateY="718.6869087333264"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Adj_FW_flow">
+            <Transform ScaleX="100.00000000000001" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="601.0" TranslateY="722.0"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Adj_spec_gML">
+            <Transform ScaleX="116.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="626.0" TranslateY="737.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="Adjust"/>
+          <ConnectionPoint id="2" port="external_target" portFirst="1"/>
+          <ConnectionPoint id="3" port="target"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="5">
+          <ConfigurationMode name="Adjusted variable type" value="Set_Adjust"/>
+          <ConfigurationMode name="Adjuster mode" value="Automatic"/>
+          <ConfigurationMode name="External target variable type" value="Scalar_external"/>
+          <ConfigurationMode name="Initialisation procedure" value="IP_Automatic_Fast"/>
+          <ConfigurationMode name="Limit adjusted variable" value="No_limit"/>
+          <ConfigurationMode name="Mode" value="Flow-driven"/>
+          <ConfigurationMode name="Specification tradeoff operation mode" value="Initialisation procedure"/>
+          <ConfigurationMode name="Target variable type" value="Scalar_Source"/>
+          <ConfigurationMode name="Value for target variable" value="From external target input"/>
+          <ActiveMode mode="Initialisation procedure ModeSet enabled"/>
+          <ActiveMode mode="Robust Options enabled"/>
+          <Value name="adjust_init" value="800000/3600"/>
+          <Value name="AdjustSignalIndexesSet" value="[&quot;WATER&quot;]"/>
+          <Value name="AdjustSignalTypesArray" value="*L*T*none available*G*T*"/>
+          <Value name="AdjustSignalTypesScalar" value="*L*T*none available*G*T*"/>
+          <Value name="AdjustSignalTypesSet" value="[&quot;Component mass flowrate&quot;]"/>
+          <Value name="ExternalSignalTypesScalar" value="[&quot;Specified boiler efficiency&quot;]"/>
+          <Value name="SourceSignalTypesScalar" value="[&quot;Calculated boiler efficiency&quot;]"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Air_Blower" model="Blower_gML" layer="Layer 1" zorder="-11" icon="1705566352">
+        <Transform ScaleX="69.0" ScaleY="64.0" ShearX="0.0" ShearY="0.0" TranslateX="212.37857142857143" TranslateY="624.4517876216345"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Air_Blower">
+            <Transform ScaleX="83.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="212.0" TranslateY="692.0"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Blower_gML">
+            <Transform ScaleX="96.0" ScaleY="19.0" ShearX="0.0" ShearY="0.0" TranslateX="211.99999999999997" TranslateY="707.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="axis_in"/>
+          <ConnectionPoint id="2" port="axis_out"/>
+          <ConnectionPoint id="3" port="inlet"/>
+          <ConnectionPoint id="4" port="outlet"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="2">
+          <ConfigurationMode name="Boiling point range" value="Wide range"/>
+          <ConfigurationMode name="Cost calculations" value="Cost_Off"/>
+          <ConfigurationMode name="Design mode" value="Design Off"/>
+          <ConfigurationMode name="Initialisation procedure" value="IP_Design_Off_Fast"/>
+          <ConfigurationMode name="Phase" value="Multiphase"/>
+          <ConfigurationMode name="SP(1).Mode" value="SP(1).Flow-driven"/>
+          <ConfigurationMode name="SP(1).Outlet specification" value="SP(1).Pressure ratio"/>
+          <ConfigurationMode name="THERMO.Low flow protection" value="THERMO.Low_flow_On"/>
+          <ConfigurationMode name="Mode" value="Flow-driven" active="false"/>
+        </Specification>
+      </Unit>
+      <Unit version="5" name="Blower_Gas" model="Blower_gML" layer="Layer 1" zorder="-61" icon="1705566352">
+        <Transform ScaleX="69.0" ScaleY="64.0" ShearX="0.0" ShearY="0.0" TranslateX="666.0" TranslateY="898.0"/>
+        <Labels version="1">
+          <Label LabelClass="name" Identifier="Blower_Gas">
+            <Transform ScaleX="1.0" ScaleY="1.0" ShearX="0.0" ShearY="0.0" TranslateX="666.0" TranslateY="966.0"/>
+          </Label>
+          <Label LabelClass="type" Identifier="Blower_gML">
+            <Transform ScaleX="1.0" ScaleY="1.0" ShearX="0.0" ShearY="0.0" TranslateX="666.0" TranslateY="981.0"/>
+          </Label>
+        </Labels>
+        <ConnectionPoints section="External">
+          <ConnectionPoint id="1" port="axis_in"/>
+          <ConnectionPoint id="2" port="axis_out"/>
+          <ConnectionPoint id="3" port="inlet"/>
+          <ConnectionPoint id="4" port="outlet"/>
+        </ConnectionPoints>
+        <Specification version="7" umsVersion="2">
+          <ConfigurationMode name="Boiling point range" value="Wide range"/>
+          <ConfigurationMode name="Cost calculations" value="Cost_Off"/>
+          <ConfigurationMode name="Design mode" value="Design Off"/>
+          <ConfigurationMode name="Initialisation procedure" value="IP_Design_Off_Fast"/>
+          <ConfigurationMode name="Phase" value="Multiphase"/>
+          <ConfigurationMode name="SP(1).Mode" value="SP(1).Flow-driven"/>
+          <ConfigurationMode name="SP(1).Outlet specification" value="SP(1).Pressure increase"/>
+          <ConfigurationMode name="THERMO.Low flow protection" value="THERMO.Low_flow_On"/>
+          <ConfigurationMode name="Mode" value="Flow-driven" active="false"/>
           <Value name="mechanical_eff" value="100" uom="percent"/>
           <Value name="SP(1).PI_spec" value="5000" uom="pascal"/>
         </Specification>
@@ -4476,7 +6052,7 @@ ICAgPC9nPg0KICA8L2c+DQo8L3N2Zz4NCg0KDQo=
         </ConnectionPoints>
         <Specification version="7" umsVersion="1">
           <ConfigurationMode name="Ash removal specification" value="Efficiency"/>
-          <ConfigurationMode name="Initialisation procedure" value="IP_Automatic_Fast"/>
+          <ConfigurationMode name="Initialisation procedure" value="IP_Automatic_Robust"/>
           <ConfigurationMode name="Pressure specification" value="Pressure drop"/>
           <Value name="calc_ash.eta" value="99.5" uom="percent"/>
           <Value name="cs.PD_specs" value="1500" uom="pascal"/>
@@ -4545,20 +6121,18 @@ ICAgPC9nPg0KICA8L2c+DQo8L3N2Zz4NCg0KDQo=
           <ConnectionPoint id="1" port="outlet"/>
           <ConnectionPoint id="2" port="setPort" portFirst="1"/>
         </ConnectionPoints>
-        <Specification version="7" umsVersion="9">
+        <Specification version="7" umsVersion="8">
           <ConfigurationMode name="Component specification" value="SP_F_w.Component fractions and overall flowrate"/>
           <ConfigurationMode name="Composition specification" value="SP_F_w.Mass_basis"/>
           <ConfigurationMode name="Flowrate specification" value="SP_F_w.Mass"/>
           <ConfigurationMode name="Mass accumulation" value="Mass_accumulation_Off"/>
           <ConfigurationMode name="Mode" value="Flow-driven"/>
           <ConfigurationMode name="Phase" value="Multiphase"/>
-          <ConfigurationMode name="SP_H.Specifications" value="SP_H.Specifications_On"/>
-          <ConfigurationMode name="SP_H.Thermal specification" value="SP_H.Temperature"/>
+          <ConfigurationMode name="Thermal specification" value="SP_H.Temperature"/>
           <ActiveMode mode="Flow specified main"/>
           <ActiveMode mode="Flowrate specification enabled"/>
           <ActiveMode mode="Flowrate specification enabled main"/>
           <ActiveMode mode="Phase ModeSet enabled"/>
-          <ActiveMode mode="SP_H.Themal specification ModeSet enabled"/>
           <Value name="phys_prop" value="Multiflash::mass:water.mfl"/>
           <Value name="pressure" value="0.5" uom="bar"/>
           <DistributedValue name="SP_F_w.mass_fraction" dimensions="1" uom="kilogram_per_kilogram">
@@ -4920,9 +6494,9 @@ ICAgPC9nPg0KICA8L2c+DQo8L3N2Zz4NCg0KDQo=
           <ConnectionPoint id="2" port="outlet"/>
         </ConnectionPoints>
         <Specification version="7" umsVersion="1">
-          <ConfigurationMode name="Initialisation procedure" value="IP_Automatic_Fast"/>
+          <ConfigurationMode name="Initialisation procedure" value="IP_Automatic_Robust"/>
           <ConfigurationMode name="spec_SCR_efficiency.Removal specifications" value="spec_SCR_efficiency.Removal_efficiency"/>
-          <ConfigurationMode name="spec_SCR_NH3.Ammonia reagent type" value="spec_SCR_NH3.Anhydrous Ammonia"/>
+          <ConfigurationMode name="spec_SCR_NH3.Ammonia reagent type" value="spec_SCR_NH3.Aqueous Ammonia"/>
           <Value name="SOURCE_UREA.pressure" value="100000" uom="pascal"/>
         </Specification>
       </Unit>
@@ -5155,6 +6729,16 @@ ICAgPC9nPg0KICA8L2c+DQo8L3N2Zz4NCg0KDQo=
           </DistributedValue>
         </Specification>
       </Unit>
+      <ValueTable version="2" layer="Layer 1" zorder="-67">
+        <Transform ScaleX="283.0" ScaleY="29.0" ShearX="0.0" ShearY="0.0" TranslateX="617.6266199621541" TranslateY="1208.0202213088594"/>
+        <variable id="SCR_gML001.SOURCE_UREA.REP(1).Component_mass_flowrate(&apos;AMMONIA&apos;)" label="Ammonia flow rate"/>
+        <Style version="1" autoscale="false" showOriginIndicator="true" overrideFont="false" fontSize="12" showVariableNames="true" uom="true" grid="true">
+          <Border style="DROP_SHADOW_BORDER" width="4">
+            <lineColour Red="0" Green="0" Blue="0"/>
+            <shadowColour Red="0" Green="0" Blue="0"/>
+          </Border>
+        </Style>
+      </ValueTable>
       <Connection version="3" unit_1="Source_coal" point_1="2" unit_2="Boiler" point_2="3" name="">
         <LineSegment points="128.37857,599.8168,335.37857,599.8168"/>
       </Connection>
@@ -5461,12 +7045,37 @@ TOPOLOGY
     </ModelEntity>
   </Group>
   <Group name="Processes">
+    <ProcessEntity name="Boiler_calc_signal" version="1">
+      <Properties>
+        <StringProperty name="CreatedBy">uditg</StringProperty>
+        <DateProperty name="CreatedDate">2020-11-20T17:24:02Z</DateProperty>
+        <StringProperty name="ModifiedBy">uditg</StringProperty>
+        <DateProperty name="ModifiedDate">2020-11-20T17:24:02Z</DateProperty>
+        <BooleanProperty name="Win32LineSeparation">false</BooleanProperty>
+        <StringProperty name="SimulationExecutionDirectory"></StringProperty>
+        <BooleanProperty name="IncludeUnitSpecifications">true</BooleanProperty>
+        <BooleanProperty name="IncludeInitialisationProcedure">true</BooleanProperty>
+      </Properties>
+      <Body><![CDATA[UNIT
+    Flowsheet AS Boiler_calc_signal
+
+SET
+
+ASSIGN
+
+INITIALSELECTOR
+
+SOLUTIONPARAMETERS
+    SequentialInitialisationProcedure := ON
+    IgnoreDAEIndexAnalysis := ON
+]]></Body>
+    </ProcessEntity>
     <ProcessEntity name="Boiler_get_set_signal" version="1">
       <Properties>
         <StringProperty name="CreatedBy">uditg</StringProperty>
         <DateProperty name="CreatedDate">2020-11-06T23:21:51Z</DateProperty>
         <StringProperty name="ModifiedBy">uditg</StringProperty>
-        <DateProperty name="ModifiedDate">2020-11-07T00:35:46Z</DateProperty>
+        <DateProperty name="ModifiedDate">2020-11-13T17:58:51Z</DateProperty>
         <BooleanProperty name="Win32LineSeparation">false</BooleanProperty>
         <StringProperty name="SimulationExecutionDirectory"></StringProperty>
         <BooleanProperty name="IncludeUnitSpecifications">true</BooleanProperty>
@@ -5485,14 +7094,14 @@ SOLUTIONPARAMETERS
     SequentialInitialisationProcedure := ON
     IgnoreDAEIndexAnalysis := ON
 
-SCHEDULE
+{SCHEDULE
     SEQUENCE
         REPLACE 
             Flowsheet.Source_coal.F
             WITH
             Flowsheet.Mixer_Power.outlet.Energy := 300000 ;
         END
-    END]]></Body>
+    END}]]></Body>
     </ProcessEntity>
   </Group>
   <Group name="Experiments">
